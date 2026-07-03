@@ -1,0 +1,345 @@
+---
+import Layout from '../layouts/Layout.astro';
+import SchemaMarkup from '../components/SchemaMarkup.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import StepsForm from '../components/StepsForm.astro';
+import communes from '../data/communes.json';
+import { generateCommuneContent, getDynamicPrices } from '../lib/contentEngine';
+import { getSmartNearbyCommunes } from '../lib/geoLinks';
+
+export async function getStaticPaths() {
+  return communes.map((c) => ({
+    params: { commune: c.slug },
+    props: { commune: c },
+  }));
+}
+
+const { commune } = Astro.props;
+const pageType = 'demoussage';
+const local = generateCommuneContent(commune, pageType);
+const prices = getDynamicPrices(commune);
+const nearby = getSmartNearbyCommunes(commune.slug, communes, 5, 2);
+
+const title = local.title;
+const description = commune.introText;
+
+const breadcrumbItems = [
+  { label: "Accueil", href: "/" },
+  { label: "Villes Vaucluse (84)", href: "/communes/" },
+  { label: `Restauration Toiture à ${commune.nom}` }
+];
+---
+
+<Layout title={title} description={description}>
+  <SchemaMarkup
+    slot="head"
+    pageUrl={Astro.url.href}
+    pageTitle={title}
+    pageDescription={description}
+    faqItems={local.faqItems}
+    breadcrumbItems={[
+      { label: "Accueil", href: "/" },
+      { label: "Villes Vaucluse", href: "/communes/" },
+      { label: `Restauration Toiture à ${commune.nom}` }
+    ]}
+    communeName={commune.nom}
+    communeData={commune}
+  />
+
+  <Breadcrumb items={breadcrumbItems} />
+
+  <!-- Localized Hero Section -->
+  <section style="background: linear-gradient(135deg, rgba(112,26,117,0.06) 0%, rgba(180,83,9,0.03) 100%); padding: 50px 0; border-bottom: 2px solid var(--border-color); font-family: var(--font-body);">
+    <div class="container">
+      <div class="two-column-layout">
+        <!-- Hero Text -->
+        <div style="display: flex; flex-direction: column; justify-content: center;">
+          <div class="badge-pill" style="width: max-content; margin-bottom: 20px;">
+            🧼 Nettoyage &amp; Hydrofuge — Entretien {commune.nom}
+          </div>
+          <h1 style="font-family: var(--font-heading); font-size: 38px; font-weight: 800; color: var(--primary); line-height: 1.2; margin-bottom: 20px;">
+            Restauration &amp; Nettoyage de Toiture à <span style="color: var(--secondary);">{commune.nom}</span> ({commune.codePostal})
+          </h1>
+          <p style="font-size: 16.5px; line-height: 1.6; color: var(--text); margin-bottom: 25px;">
+            {commune.introText}
+          </p>
+          
+          <div style="background: white; border: 1.5px solid var(--border-color); border-left: 4px solid var(--primary); padding: 18px; border-radius: var(--radius-sm); box-shadow: var(--shadow-sm); margin-bottom: 25px;">
+            <div style="font-weight: 750; color: var(--primary); margin-bottom: 5px; font-size: 14.5px;">💡 Note Technique Vaucluse :</div>
+            <p style="font-size: 13.5px; color: var(--text-muted); margin: 0; line-height: 1.5;">
+              La chaleur extrême estivale provençale dilate la terre cuite de vos tuiles canal ou romanes et les rend poreuses. L'humidité de l'automne y fait stagner mousses et lichens noirs, favorisant les infiltrations lors du gel en hiver. Un hydrofuge perlant est fortement recommandé pour stopper ce processus.
+            </p>
+          </div>
+        </div>
+
+        <!-- Hero Form -->
+        <div>
+          <StepsForm initialZip={commune.codePostal} initialCommune={commune.nom} />
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Technical Analysis Section -->
+  <section style="padding: 70px 0; background-color: var(--card-bg);">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 50px;">
+        <h2 style="font-family: var(--font-heading); font-size: 32px; font-weight: 800; color: var(--primary); margin-bottom: 15px;">
+          Pourquoi traiter le toit de votre habitation à {commune.nom} ?
+        </h2>
+        <p style="font-size: 16px; color: var(--text-muted);">
+          Les risques biologiques liés aux micro-organismes et au climat méditerranéen.
+        </p>
+      </div>
+
+      <div class="grid-3">
+        <div class="card">
+          <div style="font-size: 28px; margin-bottom: 12px;">🌊</div>
+          <h3 style="font-family: var(--font-heading); font-size: 18.5px; font-weight: 700; color: var(--primary); margin-bottom: 10px;">Attaque Climatique &amp; Pluie</h3>
+          <p style="font-size: 14.0px; color: var(--text-muted); line-height: 1.6; margin: 0;" set:html={local.climateContext}></p>
+        </div>
+
+        <div class="card">
+          <div style="font-size: 28px; margin-bottom: 12px;">🛡️</div>
+          <h3 style="font-family: var(--font-heading); font-size: 18.5px; font-weight: 700; color: var(--primary); margin-bottom: 10px;">Préservation du Patrimoine</h3>
+          <p style="font-size: 14.0px; color: var(--text-muted); line-height: 1.6; margin: 0;" set:html={local.realEstateInsight}></p>
+        </div>
+
+        <div class="card">
+          <div style="font-size: 28px; margin-bottom: 12px;">☀️</div>
+          <h3 style="font-family: var(--font-heading); font-size: 18.5px; font-weight: 700; color: var(--primary); margin-bottom: 10px;">Chaleur &amp; Porosité Tuile</h3>
+          <p style="font-size: 14.0px; color: var(--text-muted); line-height: 1.6; margin: 0;" set:html={local.energyProfileText}></p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Process details -->
+  <section style="padding: 70px 0; background-color: #FFFDF8; border-top: 1.5px solid var(--border-color); border-bottom: 1.5px solid var(--border-color);">
+    <div class="container" style="max-width: 900px;">
+      <h2 style="font-family: var(--font-heading); font-size: 30px; font-weight: 800; color: var(--primary); text-align: center; margin-bottom: 40px;">
+        Le procédé de traitement hydrofuge en 4 étapes
+      </h2>
+      
+      <div style="display: flex; flex-direction: column; gap: 20px;">
+        <div style="background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 20px; display: flex; gap: 15px; align-items: center;">
+          <div style="background: var(--primary); color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0;">1</div>
+          <div>
+            <h4 style="font-family: var(--font-heading); color: var(--primary); font-size: 16.5px; margin-bottom: 4px;">Diagnostic &amp; Brossage</h4>
+            <p style="font-size: 13.5px; color: var(--text-muted); margin: 0;">Inspection de la toiture et décollage mécanique manuel des plus grosses plaques de mousse, lichen noir et sédiments.</p>
+          </div>
+        </div>
+        
+        <div style="background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 20px; display: flex; gap: 15px; align-items: center;">
+          <div style="background: var(--primary); color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0;">2</div>
+          <div>
+            <h4 style="font-family: var(--font-heading); color: var(--primary); font-size: 16.5px; margin-bottom: 4px;">Nettoyage basse pression calibré</h4>
+            <p style="font-size: 13.5px; color: var(--text-muted); margin: 0;">Rinçage régulé à basse pression pour débarrasser les tuiles romanes ou canal de toute saleté sans altérer leur couche superficielle protectrice.</p>
+          </div>
+        </div>
+
+        <div style="background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 20px; display: flex; gap: 15px; align-items: center;">
+          <div style="background: var(--primary); color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0;">3</div>
+          <div>
+            <h4 style="font-family: var(--font-heading); color: var(--primary); font-size: 16.5px; margin-bottom: 4px;">Application du traitement algicide / fongicide</h4>
+            <p style="font-size: 13.5px; color: var(--text-muted); margin: 0;">Pulvérisation d'un produit professionnel pour éliminer les spores et racines microscopiques profondément logées dans la terre cuite.</p>
+          </div>
+        </div>
+
+        <div style="background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 20px; display: flex; gap: 15px; align-items: center;">
+          <div style="background: var(--primary); color: white; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0;">4</div>
+          <div>
+            <h4 style="font-family: var(--font-heading); color: var(--primary); font-size: 16.5px; margin-bottom: 4px;">Imperméabilisation hydrofuge perlant</h4>
+            <p style="font-size: 13.5px; color: var(--text-muted); margin: 0;">Application d'un hydrofuge incolore ou coloré de haute qualité. L'eau glisse ainsi sur les tuiles (effet perlant), emportant les poussières et préservant la toiture au sec pendant au moins 10 ans.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Fiche Technique Communale & Liens Officiels -->
+  <section style="padding: 70px 0; background-color: white; border-top: 1.5px solid var(--border-color); border-bottom: 1.5px solid var(--border-color); font-family: var(--font-body);">
+    <div class="container" style="max-width: 900px;">
+      <h2 style="font-family: var(--font-heading); font-size: 28px; font-weight: 800; color: var(--primary); text-align: center; margin-bottom: 30px;">
+        📋 Fiche Technique d'Entretien &amp; Données Locales — {commune.nom}
+      </h2>
+      
+      <div class="grid-2" style="gap: 30px; margin-bottom: 40px;">
+        <!-- Left: Données Géographiques & Administratives -->
+        <div style="background: var(--card-bg); border: 1.5px solid var(--border-color); padding: 25px; border-radius: var(--radius-md);">
+          <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 700; color: var(--primary); margin-bottom: 15px; border-bottom: 1.5px solid var(--border-color); padding-bottom: 8px;">
+            📍 Informations Territoriales
+          </h3>
+          <ul style="list-style: none; padding: 0; display: flex; flex-direction: column; gap: 10px; font-size: 14.0px;">
+            <li style="border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 5px;"><strong>Département :</strong> Vaucluse (84)</li>
+            <li style="border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 5px;"><strong>Zone Géographique :</strong> {commune.microRegionLabel}</li>
+            <li style="border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 5px;"><strong>Intercommunalité :</strong> {commune.intercommunalite}</li>
+            <li style="border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 5px;"><strong>Altitude moyenne :</strong> {commune.altitude} mètres (exigence de tuiles certifiées antigel)</li>
+            <li style="border-bottom: 1px solid rgba(0,0,0,0.05); padding-bottom: 5px;"><strong>Population Municipale :</strong> {commune.population.toLocaleString('fr-FR')} habitants</li>
+            <li><strong>Monuments de référence :</strong> Proche de {commune.landmarks.join(' et de ')}</li>
+          </ul>
+        </div>
+        
+        <!-- Right: Conseils Professionnels & Réglementation -->
+        <div style="background: var(--card-bg); border: 1.5px solid var(--border-color); padding: 25px; border-radius: var(--radius-md);">
+          <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 700; color: var(--primary); margin-bottom: 15px; border-bottom: 1.5px solid var(--border-color); padding-bottom: 8px;">
+            💡 Conseils de l'Artisan Local
+          </h3>
+          <p style="font-size: 13.5px; line-height: 1.6; color: var(--text-muted); margin-bottom: 15px;">
+            {commune.conseilLocal}
+          </p>
+          <div style="background: #FFF7ED; border: 1px solid #FED7AA; padding: 12px; border-radius: var(--radius-sm); font-size: 12.5px; color: #9A3412;">
+            <strong>Recommandation :</strong> Pour un projet visible depuis {commune.landmarks[0]}, assurez-vous de consulter le PLU en mairie de <strong>{commune.nom}</strong> avant tout démarrage de chantier.
+          </div>
+        </div>
+      </div>
+      
+      <!-- Liens Utiles Externes Certifiés -->
+      <div style="background: var(--primary-light); border: 1.5px solid var(--border-color); border-radius: var(--radius-md); padding: 30px;">
+        <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 700; color: var(--primary); margin-bottom: 15px; text-align: center;">
+          🔗 Ressources Administratives &amp; Aides Officielles pour {commune.nom}
+        </h3>
+        <p style="font-size: 13.5px; text-align: center; color: var(--text-muted); margin-bottom: 20px;">
+          Consultez les sites gouvernementaux pour sécuriser vos démarches administratives et financières de rénovation thermique :
+        </p>
+        <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+          <a href="https://www.service-public.fr/particuliers/vosdroits/F17578" target="_blank" rel="noopener nofollow" style="background: white; border: 1.5px solid var(--border-color); padding: 10px 18px; border-radius: 30px; font-size: 13px; font-weight: bold; color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 6px;">
+            📄 Déclaration Préalable de Travaux &rarr;
+          </a>
+          <a href="https://france-renov.gouv.fr/" target="_blank" rel="noopener nofollow" style="background: white; border: 1.5px solid var(--border-color); padding: 10px 18px; border-radius: 30px; font-size: 13px; font-weight: bold; color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 6px;">
+            ☀️ Aides Énergie France Rénov' &rarr;
+          </a>
+          <a href="https://www.anah.gouv.fr/" target="_blank" rel="noopener nofollow" style="background: white; border: 1.5px solid var(--border-color); padding: 10px 18px; border-radius: 30px; font-size: 13px; font-weight: bold; color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 6px;">
+            🏢 Subventions Anah &rarr;
+          </a>
+          <a href="http://www.vaucluse.gouv.fr/" target="_blank" rel="noopener nofollow" style="background: white; border: 1.5px solid var(--border-color); padding: 10px 18px; border-radius: 30px; font-size: 13px; font-weight: bold; color: var(--primary); text-decoration: none; display: flex; align-items: center; gap: 6px;">
+            🏛️ Services de l'État dans le Vaucluse &rarr;
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Prices Section -->
+  <section style="padding: 70px 0; background-color: var(--card-bg);">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 50px;">
+        <h2 style="font-family: var(--font-heading); font-size: 32px; font-weight: 800; color: var(--primary); margin-bottom: 15px;">
+          Tarifs Démoussage &amp; Nettoyage à {commune.nom} (84)
+        </h2>
+      </div>
+
+      <div style="max-width: 750px; margin: 0 auto; overflow-x: auto; background: white; border: 2px solid var(--border-color); border-radius: var(--radius-md); box-shadow: var(--shadow-sm);">
+        <table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 14.5px;">
+          <thead>
+            <tr style="background: var(--primary); color: white;">
+              <th style="padding: 16px 20px; font-family: var(--font-heading); font-weight: 700;">Prestation</th>
+              <th style="padding: 16px 20px; font-family: var(--font-heading); font-weight: 700;">Prix Moyen m² (Vaucluse)</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr style="border-bottom: 1px solid var(--border-color);">
+              <td style="padding: 16px 20px; font-weight: bold; color: var(--primary);">Nettoyage Haute Pression simple</td>
+              <td style="padding: 16px 20px;"><span class="price-tag">{Math.round(prices.demoussageHydro.min * 0.7)} – {Math.round(prices.demoussageHydro.max * 0.7)} €/m²</span></td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color); background: var(--primary-light);">
+              <td style="padding: 16px 20px; font-weight: bold; color: var(--primary);">Nettoyage + Algicide préventif</td>
+              <td style="padding: 16px 20px;"><span class="price-tag">{Math.round(prices.demoussageHydro.min * 0.9)} – {Math.round(prices.demoussageHydro.max * 0.9)} €/m²</span></td>
+            </tr>
+            <tr style="border-bottom: 1px solid var(--border-color);">
+              <td style="padding: 16px 20px; font-weight: bold; color: var(--primary);">Nettoyage + Traitement Hydrofuge perlant (Incolore)</td>
+              <td style="padding: 16px 20px;"><span class="price-tag">{prices.demoussageHydro.min} – {prices.demoussageHydro.max} €/m²</span></td>
+            </tr>
+            <tr style="background: var(--primary-light);">
+              <td style="padding: 16px 20px; font-weight: bold; color: var(--primary);">Nettoyage + Hydrofuge coloré (Restauration aspect)</td>
+              <td style="padding: 16px 20px;"><span class="price-tag">{Math.round(prices.demoussageHydro.min * 1.3)} – {Math.round(prices.demoussageHydro.max * 1.3)} €/m²</span></td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      
+      <div style="text-align: center; margin-top: 35px;">
+        <a href="#devis" class="btn-primary" style="display: inline-block;">📋 Demander un devis nettoyage gratuit &rarr;</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FAQ Section -->
+  <section style="padding: 70px 0; background-color: var(--bg); border-top: 1.5px solid var(--border-color);">
+    <div class="container" style="max-width: 850px;">
+      <h2 style="font-family: var(--font-heading); font-size: 32px; font-weight: 800; color: var(--primary); text-align: center; margin-bottom: 40px;">
+        FAQ Nettoyage Toiture à {commune.nom}
+      </h2>
+
+      <div style="display: flex; flex-direction: column; gap: 20px;">
+        {local.faqItems.map((item) => (
+          <div style="background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 25px; box-shadow: var(--shadow-sm);">
+            <h3 style="font-family: var(--font-heading); font-size: 17.5px; font-weight: 700; color: var(--primary); margin-bottom: 10px; display: flex; align-items: center; gap: 10px;">
+              <span style="color: var(--secondary);">Q.</span> {item.q}
+            </h3>
+            <p style="font-size: 14.5px; color: var(--text-muted); line-height: 1.6; margin: 0; padding-left: 25px;">
+              {item.a}
+            </p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Cross-Linking: Autres services pour cette commune -->
+  <section style="padding: 50px 0; background-color: #FFFDF8; border-top: 1.5px solid var(--border-color);">
+    <div class="container" style="max-width: 900px;">
+      <h3 style="font-family: var(--font-heading); font-size: 20px; font-weight: 700; color: var(--primary); text-align: center; margin-bottom: 10px;">
+        Nos autres services toiture à {commune.nom}
+      </h3>
+      <p style="text-align: center; font-size: 14px; color: var(--text-muted); margin-bottom: 30px;">
+        Découvrez aussi nos prestations complémentaires pour votre toiture à {commune.nom} ({commune.codePostal}).
+      </p>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px;">
+        <a href={`/travaux-toiture-${commune.slug}/`} style="display: block; background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 20px; text-decoration: none; transition: var(--transition); box-shadow: var(--shadow-sm);">
+          <span style="font-size: 22px;">🔨</span>
+          <h4 style="font-family: var(--font-heading); font-size: 15px; font-weight: 700; color: var(--primary); margin: 8px 0 5px;">Rénovation de Toiture à {commune.nom}</h4>
+          <p style="font-size: 13px; color: var(--text-muted); margin: 0;">Réfection complète, remplacement de couverture en tuiles romanes ou canal, charpente et zinguerie.</p>
+        </a>
+        <a href={`/artisan-qualifie-${commune.slug}/`} style="display: block; background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 20px; text-decoration: none; transition: var(--transition); box-shadow: var(--shadow-sm);">
+          <span style="font-size: 22px;">👤</span>
+          <h4 style="font-family: var(--font-heading); font-size: 15px; font-weight: 700; color: var(--primary); margin: 8px 0 5px;">Couvreur RGE à {commune.nom}</h4>
+          <p style="font-size: 13px; color: var(--text-muted); margin: 0;">Trouvez un artisan couvreur certifié RGE à {commune.nom} pour bénéficier des aides MaPrimeRénov' et CEE.</p>
+        </a>
+        <a href="/tarifs/" style="display: block; background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-sm); padding: 20px; text-decoration: none; transition: var(--transition); box-shadow: var(--shadow-sm);">
+          <span style="font-size: 22px;">🧮</span>
+          <h4 style="font-family: var(--font-heading); font-size: 15px; font-weight: 700; color: var(--primary); margin: 8px 0 5px;">Grille de Tarifs Toiture 2026</h4>
+          <p style="font-size: 13px; color: var(--text-muted); margin: 0;">Consultez nos tableaux de prix détaillés par type de couverture, surface et prestation dans le Vaucluse.</p>
+        </a>
+      </div>
+      <div style="margin-top: 25px; text-align: center; display: flex; flex-wrap: wrap; justify-content: center; gap: 12px;">
+        <a href="/restauration-toiture-[commune]/" style="font-size: 13px; color: var(--accent); font-weight: 600;">🧼 Guide Restauration Complet</a>
+        <a href="/guides/prix-toiture-vaucluse-2026/" style="font-size: 13px; color: var(--accent); font-weight: 600;">📊 Budget complet Vaucluse 2026</a>
+        <a href="/guide-mistral-toiture/" style="font-size: 13px; color: var(--accent); font-weight: 600;">💨 Guide de survie Mistral</a>
+        <a href="/restauration-mas-provencal/" style="font-size: 13px; color: var(--accent); font-weight: 600;">🏡 Restauration Mas Provençal</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Nearby Link Section -->
+  <section style="padding: 60px 0; background-color: var(--card-bg); border-top: 1.5px solid var(--border-color);">
+    <div class="container">
+      <h3 style="font-family: var(--font-heading); font-size: 20px; font-weight: 700; color: var(--primary); text-align: center; margin-bottom: 30px;">
+        🔍 Restauration et démoussage de toitures aux alentours de {commune.nom} (84)
+      </h3>
+      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; max-width: 800px; margin: 0 auto;">
+        {nearby.map((n) => (
+          <a href={`/restauration-toiture-${n.slug}/`} style="background: white; border: 1.5px solid var(--border-color); padding: 8px 16px; border-radius: 30px; font-size: 13.5px; font-weight: 700; color: var(--primary); text-decoration: none; transition: var(--transition);">
+            🧼 Restauration {n.nom} ({n.codePostal})
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</Layout>
+
+<style>
+  th, td {
+    border-bottom: 1px solid var(--border-color);
+  }
+</style>

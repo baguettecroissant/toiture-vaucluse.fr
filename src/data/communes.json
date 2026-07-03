@@ -1,0 +1,2424 @@
+[
+  {
+    "nom": "Avignon",
+    "slug": "avignon",
+    "codeInsee": "84007",
+    "codePostal": "84000",
+    "population": 92188,
+    "latitude": 43.9416,
+    "longitude": 4.8333,
+    "intercommunalite": "Communauté d'agglomération du Grand Avignon",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 23,
+    "landmarks": [
+      "le Palais des Papes et le Pont Saint-Bénézet classés UNESCO",
+      "le centre historique ceint de ses remparts médiévaux"
+    ],
+    "introText": "La commune de Avignon dans le Vaucluse fait face à des conditions climatiques intenses : Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains. Les 92 188 habitants du secteur résident dans un parc immobilier composé de immeubles historiques intra-muros, hôtels particuliers aux toitures en tuiles canal anciennes scellées à la chaux et villas individuelles, exigeant un savoir-faire traditionnel en couverture. Proche de le Palais des Papes et le Pont Saint-Bénézet classés UNESCO, les interventions de rénovation ou de démoussage doivent particulièrement parer aux risques de arrachement de tuiles canal ou romanes et infiltrations massives sous toitures en zone urbaine dense.",
+    "conseilLocal": "Pour atténuer la chaleur sous combles en été à Avignon, la ventilation sous tuiles est capitale. Assurez-vous que votre couvreur installe des chatières de ventilation suffisantes et un closoir de faîtage ventilé pour réduire la surchauffe.",
+    "faq": [
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Avignon ?",
+        "a": "À Avignon, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Avignon ?",
+        "a": "Pour sécuriser le toit à Avignon face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Avignon ?",
+        "a": "Oui. Toute réfection de toiture à Avignon impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 29,
+      "prixM2Refection": 119,
+      "prixM2Demoussage": 17,
+      "delaiMoyenJours": 11
+    }
+  },
+  {
+    "nom": "Carpentras",
+    "slug": "carpentras",
+    "codeInsee": "84031",
+    "codePostal": "84200",
+    "population": 31619,
+    "latitude": 44.0629,
+    "longitude": 5.0584,
+    "intercommunalite": "Communauté d'agglomération Ventoux-Comtat Venaissin (CoVe)",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 95,
+    "landmarks": [
+      "la cathédrale Saint-Siffrein et la porte d'Orange",
+      "la plus ancienne synagogue de France toujours active"
+    ],
+    "introText": "Rénover ou entretenir sa toiture à Carpentras (84200) implique d'allier performance thermique moderne et respect des traditions. Cette commune de 31 619 habitants du Comtat Venaissin & Ventoux dispose d'un bâti noble constitué de maisons de ville traditionnelles comtadines en tuiles canal et pavillons résidentiels récents. La violence de chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence multiplie le risque de bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole, justifiant l'appui d'artisans couvreurs qualifiés du 84.",
+    "conseilLocal": "Le Plan Local d'Urbanisme (PLU) de Carpentras (84200) définit précisément les teintes autorisées (tuiles ocre flammé ou vieux sud) et interdit certaines finitions modernes. Renseignez-vous auprès du service d'urbanisme de la mairie avant vos travaux.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Carpentras ?",
+        "a": "Oui. Toute réfection de toiture à Carpentras impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Carpentras ?",
+        "a": "Pour protéger votre maison à Carpentras des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 13,
+      "prixM2Refection": 113,
+      "prixM2Demoussage": 13,
+      "delaiMoyenJours": 4
+    }
+  },
+  {
+    "nom": "Orange",
+    "slug": "orange",
+    "codeInsee": "84087",
+    "codePostal": "84100",
+    "population": 29706,
+    "latitude": 44.1264,
+    "longitude": 4.8031,
+    "intercommunalite": "Communauté de communes du Pays d'Orange en Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 46,
+    "landmarks": [
+      "le Théâtre Antique d'Orange classé UNESCO et l'Arc de Triomphe",
+      "la colline Saint-Eutrope dominant le fleuve Rhône"
+    ],
+    "introText": "Les toitures à Orange requièrent une expertise spécifique liée à l'implantation de la ville dans couloir rhodanien nord et collines de l'Enclave des Papes. Avec 29 706 habitants et le Théâtre Antique d'Orange classé UNESCO et l'Arc de Triomphe comme repère visuel, le bâti local composé de bâtisses en pierre du centre ancien en tuiles canal sous contraintes ABF et villas contemporaines subit de plein fouet exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Les couvreurs qualifiés interviennent pour limiter les risques de glissement de tuiles canal non crochetées et infiltration sous l'effet de pluies poussées par le vent du nord très fréquents dans la région.",
+    "conseilLocal": "Le cycle d'entretien hydrofuge recommandé pour préserver les tuiles canal dans le secteur de Orange (Rhône & Haut-Vaucluse) est de 5 ans. L'application d'un hydrofuge de surface empêche la tuile de devenir poreuse sous l'effet du gel hivernal.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Orange ?",
+        "a": "Pour protéger votre maison à Orange des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Orange ?",
+        "a": "Oui. Toute réfection de toiture à Orange impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Orange ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Orange, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Orange ?",
+        "a": "Pour sécuriser le toit à Orange face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 14,
+      "prixM2Refection": 111,
+      "prixM2Demoussage": 14,
+      "delaiMoyenJours": 9
+    }
+  },
+  {
+    "nom": "Cavaillon",
+    "slug": "cavaillon",
+    "codeInsee": "84035",
+    "codePostal": "84300",
+    "population": 25636,
+    "latitude": 43.8485,
+    "longitude": 5.0333,
+    "intercommunalite": "Communauté d'agglomération Luberon Monts de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 75,
+    "landmarks": [
+      "la colline Saint-Jacques et l'arc romain de Cavaillon",
+      "la cathédrale Saint-Véran et les canaux de la Durance"
+    ],
+    "introText": "Cavaillon (84300), charmante ville de 25 636 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des mas séculaires en pierres sèches et bastides luberonnaises aux toitures couvertes de tuiles canal patinées de récupération, requiert des artisans qualifiés en toiture. La rigueur du climat local — exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense — impose des techniques de pose robustes pour contrer les risques de fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires.",
+    "conseilLocal": "Le Plan Local d'Urbanisme (PLU) de Cavaillon (84300) définit précisément les teintes autorisées (tuiles ocre flammé ou vieux sud) et interdit certaines finitions modernes. Renseignez-vous auprès du service d'urbanisme de la mairie avant vos travaux.",
+    "faq": [
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Cavaillon ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Cavaillon, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Cavaillon ?",
+        "a": "Oui. Toute réfection de toiture à Cavaillon impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelles sont les obligations PLU spécifiques pour les génoises dans le Luberon à Cavaillon ?",
+        "a": "Dans le Luberon et le secteur de Cavaillon, le PLU et les architectes-conseil imposent la restauration des génoises traditionnelles (2 ou 3 rangs de tuiles canal selon le standing du mas). Elles doivent être montées au mortier de chaux naturelle de couleur ocre clair, reproduisant les techniques locales historiques."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 13,
+      "prixM2Refection": 124,
+      "prixM2Demoussage": 14,
+      "delaiMoyenJours": 8
+    }
+  },
+  {
+    "nom": "L'Isle-sur-la-Sorgue",
+    "slug": "l-isle-sur-la-sorgue",
+    "codeInsee": "84054",
+    "codePostal": "84800",
+    "population": 20244,
+    "latitude": 43.9191,
+    "longitude": 5.0588,
+    "intercommunalite": "Communauté de communes Communes du Pays des Sorgues et des Monts de Vaucluse",
+    "microRegion": "sorgue-durance",
+    "microRegionLabel": "Monts de Vaucluse & Sorgues",
+    "altitude": 52,
+    "landmarks": [
+      "les roues à aubes sur les canaux de la Sorgue",
+      "les boutiques d'antiquaires et le partage des eaux"
+    ],
+    "introText": "Rénover ou entretenir sa toiture à L'Isle-sur-la-Sorgue (84800) implique d'allier performance thermique moderne et respect des traditions. Cette commune de 20 244 habitants du Monts de Vaucluse & Sorgues dispose d'un bâti noble constitué de anciennes filatures et maisons bourgeoises au bord de la Sorgue aux toitures pentues en tuiles de terre cuite. La violence de taux d'humidité élevé près des cours d'eau et alternance thermique jour/nuit sur les roches calcaires multiplie le risque de prolifération de mousses et lichens noirs sur tuiles et corrosion saline/humide des gouttières en zinc, justifiant l'appui d'artisans couvreurs qualifiés du 84.",
+    "conseilLocal": "L'intercommunalité Communauté de communes Communes du Pays des Sorgues et des Monts de Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à L'Isle-sur-la-Sorgue.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à L'Isle-sur-la-Sorgue ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à L'Isle-sur-la-Sorgue, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à L'Isle-sur-la-Sorgue ?",
+        "a": "À L'Isle-sur-la-Sorgue, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à L'Isle-sur-la-Sorgue ?",
+        "a": "Oui. Toute réfection de toiture à L'Isle-sur-la-Sorgue impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 106,
+      "prixM2Demoussage": 13,
+      "delaiMoyenJours": 6
+    }
+  },
+  {
+    "nom": "Pertuis",
+    "slug": "pertuis",
+    "codeInsee": "84089",
+    "codePostal": "84120",
+    "population": 19548,
+    "latitude": 43.6931,
+    "longitude": 5.5345,
+    "intercommunalite": "Métropole d'Aix-Marseille-Provence (Territoire du Pays d'Aix)",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 281,
+    "landmarks": [
+      "la Tour Saint-Jacques et l'église Saint-Nicolas",
+      "la plaine de la Durance et les châteaux du Luberon"
+    ],
+    "introText": "Chaque saison met les charpentes et tuiles de Pertuis à rude épreuve. Le soleil torride d'été surchauffe les combles, tandis que l'automne apporte les vents du nord et la pluie. Le parc immobilier de cette commune de 19 548 habitants — maisons de village perchées aux toits serrés encastrés sous fortes contraintes architecturales ABF — exige des couvreurs du 84 un diagnostic précis face aux pathologies de villages perchés et vallées du Parc Naturel Régional du Luberon.",
+    "conseilLocal": "La proximité de pinèdes, de chênes ou de cyprès autour de votre bâtisse à Pertuis peut obstruer vos gouttières avec des aiguilles et feuilles. La pose de crapaudines et de pare-feuilles en aluminium évite les débordements d'eau pluviale.",
+    "faq": [
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Pertuis ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Pertuis, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Pertuis ?",
+        "a": "À Pertuis, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelles sont les obligations PLU spécifiques pour les génoises dans le Luberon à Pertuis ?",
+        "a": "Dans le Luberon et le secteur de Pertuis, le PLU et les architectes-conseil imposent la restauration des génoises traditionnelles (2 ou 3 rangs de tuiles canal selon le standing du mas). Elles doivent être montées au mortier de chaux naturelle de couleur ocre clair, reproduisant les techniques locales historiques."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 144,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 11
+    }
+  },
+  {
+    "nom": "Sorgues",
+    "slug": "sorgues",
+    "codeInsee": "84129",
+    "codePostal": "84700",
+    "population": 19006,
+    "latitude": 44.016,
+    "longitude": 4.8555,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 30,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Chaque saison met les charpentes et tuiles de Sorgues à rude épreuve. Le soleil torride d'été surchauffe les combles, tandis que l'automne apporte les vents du nord et la pluie. Le parc immobilier de cette commune de 19 006 habitants — villas résidentielles des couronnes avignonnaises équipées de tuiles romanes en terre cuite à emboîtement — exige des couvreurs du 84 un diagnostic précis face aux pathologies de bassin de vie avignonnais et confluence du Rhône et de la Durance.",
+    "conseilLocal": "Le cycle d'entretien hydrofuge recommandé pour préserver les tuiles canal dans le secteur de Sorgues (Grand Avignon & Sorgues) est de 5 ans. L'application d'un hydrofuge de surface empêche la tuile de devenir poreuse sous l'effet du gel hivernal.",
+    "faq": [
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Sorgues ?",
+        "a": "À Sorgues, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Sorgues ?",
+        "a": "Oui. Toute réfection de toiture à Sorgues impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Sorgues ?",
+        "a": "Pour sécuriser le toit à Sorgues face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Sorgues ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Sorgues, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 134,
+      "prixM2Demoussage": 21,
+      "delaiMoyenJours": 13
+    }
+  },
+  {
+    "nom": "Le Pontet",
+    "slug": "le-pontet",
+    "codeInsee": "84092",
+    "codePostal": "84130",
+    "population": 18386,
+    "latitude": 43.9707,
+    "longitude": 4.8614,
+    "intercommunalite": "Communauté d'agglomération du Grand Avignon",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 26,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Les toitures à Le Pontet requièrent une expertise spécifique liée à l'implantation de la ville dans bassin de vie avignonnais et confluence du Rhône et de la Durance. Avec 18 386 habitants et le Palais des Papes d'Avignon comme repère visuel, le bâti local composé de villas résidentielles des couronnes avignonnaises équipées de tuiles romanes en terre cuite à emboîtement subit de plein fouet Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains. Les couvreurs qualifiés interviennent pour limiter les risques de arrachement de tuiles canal ou romanes et infiltrations massives sous toitures en zone urbaine dense très fréquents dans la région.",
+    "conseilLocal": "Le cycle d'entretien hydrofuge recommandé pour préserver les tuiles canal dans le secteur de Le Pontet (Grand Avignon & Sorgues) est de 5 ans. L'application d'un hydrofuge de surface empêche la tuile de devenir poreuse sous l'effet du gel hivernal.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Le Pontet ?",
+        "a": "Pour protéger votre maison à Le Pontet des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Le Pontet ?",
+        "a": "Oui. Toute réfection de toiture à Le Pontet impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Le Pontet ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Le Pontet, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Le Pontet ?",
+        "a": "À Le Pontet, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 108,
+      "prixM2Demoussage": 17,
+      "delaiMoyenJours": 15
+    }
+  },
+  {
+    "nom": "Bollène",
+    "slug": "bollene",
+    "codeInsee": "84019",
+    "codePostal": "84500",
+    "population": 14024,
+    "latitude": 44.2885,
+    "longitude": 4.751,
+    "intercommunalite": "Communauté de communes Rhône Lez Provence",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 55,
+    "landmarks": [
+      "la collégiale Saint-Martin et le site troglodytique de Barry",
+      "la centrale hydroélectrique historique de Donzère-Mondragon"
+    ],
+    "introText": "Prendre soin de son toit à Bollène est capital pour faire face aux exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Le patrimoine résidentiel de cette localité de 14 024 habitants — domaines viticoles historiques aux toitures à large surface équipées de tuiles canal anciennes — recommande un cycle de révision préventif de 5 ans. Proche de la collégiale Saint-Martin et le site troglodytique de Barry, Bollène profite d'artisans couvreurs certifiés RGE rompus aux exigences architecturales du Rhône & Haut-Vaucluse.",
+    "conseilLocal": "En cas d'intempérie de grêle sur le Comtat Venaissin ou le pied du Ventoux, photographiez immédiatement les tuiles brisées et contactez votre assurance dans les 5 jours. Demandez une mise en sécurité temporaire par bâche à un couvreur qualifié.",
+    "faq": [
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Bollène ?",
+        "a": "Pour protéger votre maison à Bollène des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Bollène ?",
+        "a": "À Bollène, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Bollène ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Bollène, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 106,
+      "prixM2Demoussage": 19,
+      "delaiMoyenJours": 4
+    }
+  },
+  {
+    "nom": "Monteux",
+    "slug": "monteux",
+    "codeInsee": "84080",
+    "codePostal": "84170",
+    "population": 13301,
+    "latitude": 44.033,
+    "longitude": 4.9862,
+    "intercommunalite": "Communauté d'agglomération Ventoux-Comtat Venaissin (CoVe)",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Chaque saison met les charpentes et tuiles de Monteux à rude épreuve. Le soleil torride d'été surchauffe les combles, tandis que l'automne apporte les vents du nord et la pluie. Le parc immobilier de cette commune de 13 301 habitants — villas individuelles récentes construites dans la garrigue calcaire avec écrans de sous-toiture HPV — exige des couvreurs du 84 un diagnostic précis face aux pathologies de plaine agricole du Comtat et contreforts du Mont Ventoux.",
+    "conseilLocal": "Si votre toiture à Monteux est située dans le périmètre de visibilité d'un monument historique (comme le Palais des Papes d'Avignon ou le Théâtre Antique d'Orange), vous devrez obligatoirement obtenir l'aval de l'Architecte des Bâtiments de France (ABF).",
+    "faq": [
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Monteux ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Monteux, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Monteux ?",
+        "a": "Oui. Toute réfection de toiture à Monteux impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Monteux ?",
+        "a": "À Monteux, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 8,
+      "prixM2Refection": 121,
+      "prixM2Demoussage": 21,
+      "delaiMoyenJours": 9
+    }
+  },
+  {
+    "nom": "Vedène",
+    "slug": "vedene",
+    "codeInsee": "84141",
+    "codePostal": "84270",
+    "population": 11974,
+    "latitude": 43.9736,
+    "longitude": 4.9055,
+    "intercommunalite": "Communauté d'agglomération du Grand Avignon",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 60,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Rénover ou entretenir sa toiture à Vedène (84270) implique d'allier performance thermique moderne et respect des traditions. Cette commune de 11 974 habitants du Grand Avignon & Sorgues dispose d'un bâti noble constitué de hôtels particuliers et maisons bourgeoises intra-muros couvertes de tuiles canal scellées au mortier de chaux. La violence de Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains multiplie le risque de arrachement de tuiles canal ou romanes et infiltrations massives sous toitures en zone urbaine dense, justifiant l'appui d'artisans couvreurs qualifiés du 84.",
+    "conseilLocal": "L'intercommunalité Communauté d'agglomération du Grand Avignon propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Vedène.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Vedène ?",
+        "a": "Pour protéger votre maison à Vedène des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Vedène ?",
+        "a": "Oui. Toute réfection de toiture à Vedène impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Vedène ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Vedène, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 111,
+      "prixM2Demoussage": 20,
+      "delaiMoyenJours": 4
+    }
+  },
+  {
+    "nom": "Pernes-les-Fontaines",
+    "slug": "pernes-les-fontaines",
+    "codeInsee": "84088",
+    "codePostal": "84210",
+    "population": 10504,
+    "latitude": 43.9966,
+    "longitude": 5.0289,
+    "intercommunalite": "Communauté d'agglomération Ventoux-Comtat Venaissin (CoVe)",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Restaurer sa toiture à Pernes-les-Fontaines dans le Vaucluse est un acte de préservation du patrimoine provençal. Les résidents de cette ville de 10 504 habitants habitent principalement des pavillons résidentiels modernes avec toitures à double pente résistants à la grêle du Ventoux exposés à chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence. Négliger le bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole peut endommager la structure en bois. Les artisans locaux certifiés interviennent pour pérenniser vos biens immobiliers.",
+    "conseilLocal": "Pour atténuer la chaleur sous combles en été à Pernes-les-Fontaines, la ventilation sous tuiles est capitale. Assurez-vous que votre couvreur installe des chatières de ventilation suffisantes et un closoir de faîtage ventilé pour réduire la surchauffe.",
+    "faq": [
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Pernes-les-Fontaines ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Pernes-les-Fontaines, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Pernes-les-Fontaines ?",
+        "a": "Pour protéger votre maison à Pernes-les-Fontaines des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Pernes-les-Fontaines ?",
+        "a": "À Pernes-les-Fontaines, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 106,
+      "prixM2Demoussage": 16,
+      "delaiMoyenJours": 17
+    }
+  },
+  {
+    "nom": "Apt",
+    "slug": "apt",
+    "codeInsee": "84003",
+    "codePostal": "84400",
+    "population": 10143,
+    "latitude": 43.8815,
+    "longitude": 5.3814,
+    "intercommunalite": "Communauté de communes Pays d'Apt-Luberon",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 170,
+    "landmarks": [
+      "la cathédrale Sainte-Anne et le pont romain Julien",
+      "les mines d'ocre du Pays d'Apt"
+    ],
+    "introText": "Perchée à 170m d'altitude dans un relief typique, la commune de Apt (10 143 habitants) abrite un bâti historique composé de propriétés de prestige restaurées avec des génoises maçonnées à trois rangs de tuiles traditionnelles. Exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense : les toitures subissent ici un fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires. À proximité immédiate de la cathédrale Sainte-Anne et le pont romain Julien, les maîtres couvreurs certifiés RGE du 84 restaurent les toitures dans le respect absolu des règles de l'art.",
+    "conseilLocal": "En cas d'intempérie de grêle sur le Comtat Venaissin ou le pied du Ventoux, photographiez immédiatement les tuiles brisées et contactez votre assurance dans les 5 jours. Demandez une mise en sécurité temporaire par bâche à un couvreur qualifié.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Apt ?",
+        "a": "Pour protéger votre maison à Apt des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Apt ?",
+        "a": "Oui. Toute réfection de toiture à Apt impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 8,
+      "prixM2Refection": 143,
+      "prixM2Demoussage": 21,
+      "delaiMoyenJours": 8
+    }
+  },
+  {
+    "nom": "Valréas",
+    "slug": "valreas",
+    "codeInsee": "84138",
+    "codePostal": "84600",
+    "population": 9224,
+    "latitude": 44.379,
+    "longitude": 4.9973,
+    "intercommunalite": "Communauté de communes Rhône Lez Provence",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 230,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Restaurer sa toiture à Valréas dans le Vaucluse est un acte de préservation du patrimoine provençal. Les résidents de cette ville de 9 224 habitants habitent principalement des villas contemporaines aux structures légères et matériaux certifiés NF anti-vent exposés à exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Négliger le glissement de tuiles canal non crochetées et infiltration sous l'effet de pluies poussées par le vent du nord peut endommager la structure en bois. Les artisans locaux certifiés interviennent pour pérenniser vos biens immobiliers.",
+    "conseilLocal": "À Valréas et dans les zones montagneuses du Ventoux ou du Luberon (230m), le gel hivernal intense peut faire éclater les tuiles de terre cuite. Optez pour des tuiles conformes à la norme NF EN 490 garantissant la résistance au gel.",
+    "faq": [
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Valréas ?",
+        "a": "Oui. Toute réfection de toiture à Valréas impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Valréas ?",
+        "a": "À Valréas, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Valréas ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Valréas, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Valréas ?",
+        "a": "Pour sécuriser le toit à Valréas face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 116,
+      "prixM2Demoussage": 18,
+      "delaiMoyenJours": 9
+    }
+  },
+  {
+    "nom": "Morières-lès-Avignon",
+    "slug": "morieres-les-avignon",
+    "codeInsee": "84081",
+    "codePostal": "84310",
+    "population": 9019,
+    "latitude": 43.9298,
+    "longitude": 4.9078,
+    "intercommunalite": "Communauté d'agglomération du Grand Avignon",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 40,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Baignée dans bassin de vie avignonnais et confluence du Rhône et de la Durance, la commune de Morières-lès-Avignon compte 9 019 habitants dont les maisons — maisons de faubourg traditionnelles mitoyennes aux toitures exposées aux rafales canalisées du Mistral — sont confrontées à Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains. Le risque principal pour les couvertures réside dans le arrachement de tuiles canal ou romanes et infiltrations massives sous toitures en zone urbaine dense. Les couvreurs certifiés RGE du secteur adaptent leurs chantiers pour garantir l'étanchéité face aux colères du mistral ou des orages cévenols.",
+    "conseilLocal": "En bassin de vie avignonnais et confluence du Rhône et de la Durance, l'ensoleillement intense dessèche rapidement les joints de mortier bâtard traditionnels. Faire inspecter l'étanchéité des génoises et des solins de cheminée permet d'anticiper de lourdes rénovations.",
+    "faq": [
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Morières-lès-Avignon ?",
+        "a": "À Morières-lès-Avignon, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Morières-lès-Avignon ?",
+        "a": "Pour sécuriser le toit à Morières-lès-Avignon face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Morières-lès-Avignon ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Morières-lès-Avignon, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Morières-lès-Avignon ?",
+        "a": "Oui. Toute réfection de toiture à Morières-lès-Avignon impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 5,
+      "prixM2Refection": 106,
+      "prixM2Demoussage": 14,
+      "delaiMoyenJours": 11
+    }
+  },
+  {
+    "nom": "Entraigues-sur-la-Sorgue",
+    "slug": "entraigues-sur-la-sorgue",
+    "codeInsee": "84043",
+    "codePostal": "84320",
+    "population": 8913,
+    "latitude": 43.9959,
+    "longitude": 4.9347,
+    "intercommunalite": "Communauté d'agglomération du Grand Avignon",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 30,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Baignée dans bassin de vie avignonnais et confluence du Rhône et de la Durance, la commune de Entraigues-sur-la-Sorgue compte 8 913 habitants dont les maisons — maisons de faubourg traditionnelles mitoyennes aux toitures exposées aux rafales canalisées du Mistral — sont confrontées à Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains. Le risque principal pour les couvertures réside dans le arrachement de tuiles canal ou romanes et infiltrations massives sous toitures en zone urbaine dense. Les couvreurs certifiés RGE du secteur adaptent leurs chantiers pour garantir l'étanchéité face aux colères du mistral ou des orages cévenols.",
+    "conseilLocal": "Pour atténuer la chaleur sous combles en été à Entraigues-sur-la-Sorgue, la ventilation sous tuiles est capitale. Assurez-vous que votre couvreur installe des chatières de ventilation suffisantes et un closoir de faîtage ventilé pour réduire la surchauffe.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Entraigues-sur-la-Sorgue ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Entraigues-sur-la-Sorgue, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Entraigues-sur-la-Sorgue ?",
+        "a": "Oui. Toute réfection de toiture à Entraigues-sur-la-Sorgue impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Entraigues-sur-la-Sorgue ?",
+        "a": "Pour sécuriser le toit à Entraigues-sur-la-Sorgue face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 5,
+      "prixM2Refection": 106,
+      "prixM2Demoussage": 14,
+      "delaiMoyenJours": 17
+    }
+  },
+  {
+    "nom": "Le Thor",
+    "slug": "le-thor",
+    "codeInsee": "84132",
+    "codePostal": "84250",
+    "population": 8882,
+    "latitude": 43.9236,
+    "longitude": 4.9939,
+    "intercommunalite": "Communauté de communes Communes du Pays des Sorgues et des Monts de Vaucluse",
+    "microRegion": "sorgue-durance",
+    "microRegionLabel": "Monts de Vaucluse & Sorgues",
+    "altitude": 60,
+    "landmarks": [
+      "les sources et fontaines de Fontaine-de-Vaucluse",
+      "les canaux de L'Isle-sur-la-Sorgue"
+    ],
+    "introText": "Prendre soin de son toit à Le Thor est capital pour faire face aux taux d'humidité élevé près des cours d'eau et alternance thermique jour/nuit sur les roches calcaires. Le patrimoine résidentiel de cette localité de 8 882 habitants — villas individuelles modernes sujettes à l'humidité des canaux de L'Isle-sur-la-Sorgue — recommande un cycle de révision préventif de 3 ans. Proche de les sources et fontaines de Fontaine-de-Vaucluse, Le Thor profite d'artisans couvreurs certifiés RGE rompus aux exigences architecturales du Monts de Vaucluse & Sorgues.",
+    "conseilLocal": "Pour bénéficier des aides d'État MaPrimeRénov' et CEE lors de l'isolation de votre toiture à Le Thor, vous devez impérativement faire réaliser les travaux par un artisan couvreur certifié RGE (Reconnu Garant de l'Environnement) disposant d'une décennale à jour.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Le Thor ?",
+        "a": "Oui. Toute réfection de toiture à Le Thor impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Le Thor ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Le Thor, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 115,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 12
+    }
+  },
+  {
+    "nom": "Courthézon",
+    "slug": "courthezon",
+    "codeInsee": "84039",
+    "codePostal": "84350",
+    "population": 6426,
+    "latitude": 44.0876,
+    "longitude": 4.8868,
+    "intercommunalite": "Communauté de communes du Pays d'Orange en Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Dans le département de Vaucluse, la ville de Courthézon (6 426 habitants) affiche des enjeux d'urbanisme évidents : exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Son parc résidentiel formé de maisons anciennes de caractère en pierre de taille à Vaison ou Orange aux toitures hautement réglementées requiert des solutions thermiques durables. Isoler son toit par l'extérieur ou par soufflage de combles apporte 3°C de fraîcheur en été face aux canicules.",
+    "conseilLocal": "L'intercommunalité Communauté de communes du Pays d'Orange en Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Courthézon.",
+    "faq": [
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Courthézon ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Courthézon, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Courthézon ?",
+        "a": "À Courthézon, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Courthézon ?",
+        "a": "Pour sécuriser le toit à Courthézon face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 119,
+      "prixM2Demoussage": 21,
+      "delaiMoyenJours": 6
+    }
+  },
+  {
+    "nom": "Mazan",
+    "slug": "mazan",
+    "codeInsee": "84072",
+    "codePostal": "84380",
+    "population": 6285,
+    "latitude": 44.0528,
+    "longitude": 5.1333,
+    "intercommunalite": "Communauté d'agglomération Ventoux-Comtat Venaissin (CoVe)",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 160,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Perchée à 160m d'altitude dans un relief typique, la commune de Mazan (6 285 habitants) abrite un bâti historique composé de maisons de village historiques de Pernes aux toits de tuiles canal et faîtages maçonnés à l'ancienne. Chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence : les toitures subissent ici un bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole. À proximité immédiate de le géant de Provence Mont Ventoux, les maîtres couvreurs certifiés RGE du 84 restaurent les toitures dans le respect absolu des règles de l'art.",
+    "conseilLocal": "En cas d'intempérie de grêle sur le Comtat Venaissin ou le pied du Ventoux, photographiez immédiatement les tuiles brisées et contactez votre assurance dans les 5 jours. Demandez une mise en sécurité temporaire par bâche à un couvreur qualifié.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Mazan ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Mazan, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Mazan ?",
+        "a": "À Mazan, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Mazan ?",
+        "a": "Oui. Toute réfection de toiture à Mazan impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 105,
+      "prixM2Demoussage": 15,
+      "delaiMoyenJours": 6
+    }
+  },
+  {
+    "nom": "Vaison-la-Romaine",
+    "slug": "vaison-la-romaine",
+    "codeInsee": "84137",
+    "codePostal": "84110",
+    "population": 6058,
+    "latitude": 44.2395,
+    "longitude": 5.0586,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 204,
+    "landmarks": [
+      "le pont romain sur l'Ouvèze et les vestiges antiques",
+      "la cité médiévale perchée et sa cathédrale"
+    ],
+    "introText": "Chaque saison met les charpentes et tuiles de Vaison-la-Romaine à rude épreuve. Le soleil torride d'été surchauffe les combles, tandis que l'automne apporte les vents du nord et la pluie. Le parc immobilier de cette commune de 6 058 habitants — bâtisses de village exposées aux vents violents de la vallée du Rhône nécessitant un clouage ou crochetage renforcé — exige des couvreurs du 84 un diagnostic précis face aux pathologies de couloir rhodanien nord et collines de l'Enclave des Papes.",
+    "conseilLocal": "Si votre toiture à Vaison-la-Romaine est située dans le périmètre de visibilité d'un monument historique (comme le Palais des Papes d'Avignon ou le Théâtre Antique d'Orange), vous devrez obligatoirement obtenir l'aval de l'Architecte des Bâtiments de France (ABF).",
+    "faq": [
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Vaison-la-Romaine ?",
+        "a": "Pour sécuriser le toit à Vaison-la-Romaine face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Vaison-la-Romaine ?",
+        "a": "À Vaison-la-Romaine, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Vaison-la-Romaine ?",
+        "a": "Oui. Toute réfection de toiture à Vaison-la-Romaine impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 5,
+      "prixM2Refection": 113,
+      "prixM2Demoussage": 16,
+      "delaiMoyenJours": 17
+    }
+  },
+  {
+    "nom": "Aubignan",
+    "slug": "aubignan",
+    "codeInsee": "84004",
+    "codePostal": "84810",
+    "population": 5981,
+    "latitude": 44.0962,
+    "longitude": 5.0331,
+    "intercommunalite": "Communauté d'agglomération Ventoux-Comtat Venaissin (CoVe)",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Prendre soin de son toit à Aubignan est capital pour faire face aux chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence. Le patrimoine résidentiel de cette localité de 5 981 habitants — maisons de village historiques de Pernes aux toits de tuiles canal et faîtages maçonnés à l'ancienne — recommande un cycle de révision préventif de 5 ans. Proche de le géant de Provence Mont Ventoux, Aubignan profite d'artisans couvreurs certifiés RGE rompus aux exigences architecturales du Comtat Venaissin & Ventoux.",
+    "conseilLocal": "En cas d'intempérie de grêle sur le Comtat Venaissin ou le pied du Ventoux, photographiez immédiatement les tuiles brisées et contactez votre assurance dans les 5 jours. Demandez une mise en sécurité temporaire par bâche à un couvreur qualifié.",
+    "faq": [
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Aubignan ?",
+        "a": "À Aubignan, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Aubignan ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Aubignan, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Aubignan ?",
+        "a": "Pour protéger votre maison à Aubignan des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 5,
+      "prixM2Refection": 133,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 10
+    }
+  },
+  {
+    "nom": "Sarrians",
+    "slug": "sarrians",
+    "codeInsee": "84122",
+    "codePostal": "84260",
+    "population": 5792,
+    "latitude": 44.1018,
+    "longitude": 4.9541,
+    "intercommunalite": "Communauté d'agglomération Ventoux-Comtat Venaissin (CoVe)",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Prendre soin de son toit à Sarrians est capital pour faire face aux chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence. Le patrimoine résidentiel de cette localité de 5 792 habitants — maisons de village historiques de Pernes aux toits de tuiles canal et faîtages maçonnés à l'ancienne — recommande un cycle de révision préventif de 5 ans. Proche de le géant de Provence Mont Ventoux, Sarrians profite d'artisans couvreurs certifiés RGE rompus aux exigences architecturales du Comtat Venaissin & Ventoux.",
+    "conseilLocal": "En cas d'intempérie de grêle sur le Comtat Venaissin ou le pied du Ventoux, photographiez immédiatement les tuiles brisées et contactez votre assurance dans les 5 jours. Demandez une mise en sécurité temporaire par bâche à un couvreur qualifié.",
+    "faq": [
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Sarrians ?",
+        "a": "À Sarrians, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Sarrians ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Sarrians, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 111,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 6
+    }
+  },
+  {
+    "nom": "Piolenc",
+    "slug": "piolenc",
+    "codeInsee": "84091",
+    "codePostal": "84420",
+    "population": 5718,
+    "latitude": 44.1784,
+    "longitude": 4.7587,
+    "intercommunalite": "Communauté de communes Rhône Lez Provence",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Chaque saison met les charpentes et tuiles de Piolenc à rude épreuve. Le soleil torride d'été surchauffe les combles, tandis que l'automne apporte les vents du nord et la pluie. Le parc immobilier de cette commune de 5 718 habitants — bâtisses de village exposées aux vents violents de la vallée du Rhône nécessitant un clouage ou crochetage renforcé — exige des couvreurs du 84 un diagnostic précis face aux pathologies de couloir rhodanien nord et collines de l'Enclave des Papes.",
+    "conseilLocal": "Le cycle d'entretien hydrofuge recommandé pour préserver les tuiles canal dans le secteur de Piolenc (Rhône & Haut-Vaucluse) est de 5 ans. L'application d'un hydrofuge de surface empêche la tuile de devenir poreuse sous l'effet du gel hivernal.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Piolenc ?",
+        "a": "Oui. Toute réfection de toiture à Piolenc impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Piolenc ?",
+        "a": "Pour protéger votre maison à Piolenc des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Piolenc ?",
+        "a": "Pour sécuriser le toit à Piolenc face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 116,
+      "prixM2Demoussage": 18,
+      "delaiMoyenJours": 15
+    }
+  },
+  {
+    "nom": "Bédarrides",
+    "slug": "bedarrides",
+    "codeInsee": "84016",
+    "codePostal": "84370",
+    "population": 5671,
+    "latitude": 44.0478,
+    "longitude": 4.9029,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Dans le département de Vaucluse, la ville de Bédarrides (5 671 habitants) affiche des enjeux d'urbanisme évidents : chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence. Son parc résidentiel formé de mas agricoles du Comtat et maisons de vignerons aux toits très étendus en tuiles canal d'époque requiert des solutions thermiques durables. Isoler son toit par l'extérieur ou par soufflage de combles apporte 3°C de fraîcheur en été face aux canicules.",
+    "conseilLocal": "L'intercommunalité Département de Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Bédarrides.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Bédarrides ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Bédarrides, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Bédarrides ?",
+        "a": "Pour protéger votre maison à Bédarrides des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Bédarrides ?",
+        "a": "Oui. Toute réfection de toiture à Bédarrides impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 5,
+      "prixM2Refection": 113,
+      "prixM2Demoussage": 13,
+      "delaiMoyenJours": 12
+    }
+  },
+  {
+    "nom": "Caumont-sur-Durance",
+    "slug": "caumont-sur-durance",
+    "codeInsee": "84034",
+    "codePostal": "84510",
+    "population": 5667,
+    "latitude": 43.8813,
+    "longitude": 4.955,
+    "intercommunalite": "Communauté d'agglomération du Grand Avignon",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 30,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Prendre soin de son toit à Caumont-sur-Durance est capital pour faire face aux Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains. Le patrimoine résidentiel de cette localité de 5 667 habitants — copropriétés de ville et pavillons modernes aux toits terrasses ou charpentes fermettes — recommande un cycle de révision préventif de 5 ans. Proche de le Palais des Papes d'Avignon, Caumont-sur-Durance profite d'artisans couvreurs certifiés RGE rompus aux exigences architecturales du Grand Avignon & Sorgues.",
+    "conseilLocal": "Lors de la demande de devis à Caumont-sur-Durance, exigez de l'artisan couvreur qu'il vous présente son attestation d'assurance décennale nominative couvrant spécifiquement la couverture, la zinguerie et l'isolation thermique dans le Vaucluse.",
+    "faq": [
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Caumont-sur-Durance ?",
+        "a": "Pour protéger votre maison à Caumont-sur-Durance des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Caumont-sur-Durance ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Caumont-sur-Durance, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 133,
+      "prixM2Demoussage": 20,
+      "delaiMoyenJours": 16
+    }
+  },
+  {
+    "nom": "Saint-Saturnin-lès-Avignon",
+    "slug": "saint-saturnin-les-avignon",
+    "codeInsee": "84119",
+    "codePostal": "84450",
+    "population": 5206,
+    "latitude": 43.9625,
+    "longitude": 4.9447,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Recourir à un artisan couvreur familier du climat vauclusien à Saint-Saturnin-lès-Avignon est la clé pour des travaux durables. Cette commune de 5 206 habitants, sise dans plaine agricole du Comtat et contreforts du Mont Ventoux, présente un bâti de villas individuelles récentes construites dans la garrigue calcaire avec écrans de sous-toiture HPV. Avec chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence, les toitures doivent être solidement ancrées et traitées régulièrement pour stopper le bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole.",
+    "conseilLocal": "Le cycle d'entretien hydrofuge recommandé pour préserver les tuiles canal dans le secteur de Saint-Saturnin-lès-Avignon (Comtat Venaissin & Ventoux) est de 5 ans. L'application d'un hydrofuge de surface empêche la tuile de devenir poreuse sous l'effet du gel hivernal.",
+    "faq": [
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Saint-Saturnin-lès-Avignon ?",
+        "a": "À Saint-Saturnin-lès-Avignon, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Saint-Saturnin-lès-Avignon ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Saint-Saturnin-lès-Avignon, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Saint-Saturnin-lès-Avignon ?",
+        "a": "Oui. Toute réfection de toiture à Saint-Saturnin-lès-Avignon impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 6,
+      "prixM2Refection": 114,
+      "prixM2Demoussage": 14,
+      "delaiMoyenJours": 17
+    }
+  },
+  {
+    "nom": "Jonquières",
+    "slug": "jonquieres",
+    "codeInsee": "84056",
+    "codePostal": "84150",
+    "population": 5201,
+    "latitude": 44.1324,
+    "longitude": 4.9144,
+    "intercommunalite": "Communauté de communes du Pays d'Orange en Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Jonquières (84150), charmante ville de 5 201 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des maisons anciennes de caractère en pierre de taille à Vaison ou Orange aux toitures hautement réglementées, requiert des artisans qualifiés en toiture. La rigueur du climat local — exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol — impose des techniques de pose robustes pour contrer les risques de glissement de tuiles canal non crochetées et infiltration sous l'effet de pluies poussées par le vent du nord.",
+    "conseilLocal": "L'intercommunalité Communauté de communes du Pays d'Orange en Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Jonquières.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Jonquières ?",
+        "a": "Pour protéger votre maison à Jonquières des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Jonquières ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Jonquières, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Jonquières ?",
+        "a": "Pour sécuriser le toit à Jonquières face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 100,
+      "prixM2Demoussage": 13,
+      "delaiMoyenJours": 10
+    }
+  },
+  {
+    "nom": "Robion",
+    "slug": "robion",
+    "codeInsee": "84099",
+    "codePostal": "84440",
+    "population": 4816,
+    "latitude": 43.8429,
+    "longitude": 5.1066,
+    "intercommunalite": "Communauté d'agglomération Luberon Monts de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Rénover ou entretenir sa toiture à Robion (84440) implique d'allier performance thermique moderne et respect des traditions. Cette commune de 4 816 habitants du Luberon & Pays d'Apt dispose d'un bâti noble constitué de mas séculaires en pierres sèches et bastides luberonnaises aux toitures couvertes de tuiles canal patinées de récupération. La violence de exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense multiplie le risque de fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires, justifiant l'appui d'artisans couvreurs qualifiés du 84.",
+    "conseilLocal": "Le Plan Local d'Urbanisme (PLU) de Robion (84440) définit précisément les teintes autorisées (tuiles ocre flammé ou vieux sud) et interdit certaines finitions modernes. Renseignez-vous auprès du service d'urbanisme de la mairie avant vos travaux.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Robion ?",
+        "a": "Oui. Toute réfection de toiture à Robion impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Robion ?",
+        "a": "Pour protéger votre maison à Robion des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 2,
+      "prixM2Refection": 140,
+      "prixM2Demoussage": 19,
+      "delaiMoyenJours": 10
+    }
+  },
+  {
+    "nom": "Camaret-sur-Aigues",
+    "slug": "camaret-sur-aigues",
+    "codeInsee": "84029",
+    "codePostal": "84850",
+    "population": 4533,
+    "latitude": 44.1551,
+    "longitude": 4.8911,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Dans le département de Vaucluse, la ville de Camaret-sur-Aigues (4 533 habitants) affiche des enjeux d'urbanisme évidents : exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Son parc résidentiel formé de maisons anciennes de caractère en pierre de taille à Vaison ou Orange aux toitures hautement réglementées requiert des solutions thermiques durables. Isoler son toit par l'extérieur ou par soufflage de combles apporte 3°C de fraîcheur en été face aux canicules.",
+    "conseilLocal": "L'intercommunalité Département de Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Camaret-sur-Aigues.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Camaret-sur-Aigues ?",
+        "a": "Pour protéger votre maison à Camaret-sur-Aigues des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Camaret-sur-Aigues ?",
+        "a": "Pour sécuriser le toit à Camaret-sur-Aigues face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 117,
+      "prixM2Demoussage": 19,
+      "delaiMoyenJours": 8
+    }
+  },
+  {
+    "nom": "La Tour-d'Aigues",
+    "slug": "la-tour-d-aigues",
+    "codeInsee": "84133",
+    "codePostal": "84240",
+    "population": 4405,
+    "latitude": 43.7128,
+    "longitude": 5.5682,
+    "intercommunalite": "Métropole d'Aix-Marseille-Provence (Territoire du Pays d'Aix)",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Les toitures à La Tour-d'Aigues requièrent une expertise spécifique liée à l'implantation de la ville dans villages perchés et vallées du Parc Naturel Régional du Luberon. Avec 4 405 habitants et les carrières d'ocre de Roussillon et les villages perchés comme repère visuel, le bâti local composé de maisons de village perchées aux toits serrés encastrés sous fortes contraintes architecturales ABF subit de plein fouet exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense. Les couvreurs qualifiés interviennent pour limiter les risques de fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires très fréquents dans la région.",
+    "conseilLocal": "La proximité de pinèdes, de chênes ou de cyprès autour de votre bâtisse à La Tour-d'Aigues peut obstruer vos gouttières avec des aiguilles et feuilles. La pose de crapaudines et de pare-feuilles en aluminium évite les débordements d'eau pluviale.",
+    "faq": [
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à La Tour-d'Aigues ?",
+        "a": "À La Tour-d'Aigues, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à La Tour-d'Aigues ?",
+        "a": "Pour protéger votre maison à La Tour-d'Aigues des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelles sont les obligations PLU spécifiques pour les génoises dans le Luberon à La Tour-d'Aigues ?",
+        "a": "Dans le Luberon et le secteur de La Tour-d'Aigues, le PLU et les architectes-conseil imposent la restauration des génoises traditionnelles (2 ou 3 rangs de tuiles canal selon le standing du mas). Elles doivent être montées au mortier de chaux naturelle de couleur ocre clair, reproduisant les techniques locales historiques."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à La Tour-d'Aigues ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à La Tour-d'Aigues, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 120,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 7
+    }
+  },
+  {
+    "nom": "Cadenet",
+    "slug": "cadenet",
+    "codeInsee": "84026",
+    "codePostal": "84160",
+    "population": 4363,
+    "latitude": 43.7299,
+    "longitude": 5.386,
+    "intercommunalite": "Communauté de communes Pays d'Apt-Luberon",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Baignée dans villages perchés et vallées du Parc Naturel Régional du Luberon, la commune de Cadenet compte 4 363 habitants dont les maisons — granges agricoles converties et bastides provençales aux charpentes traditionnelles en bois résineux ou chêne — sont confrontées à exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense. Le risque principal pour les couvertures réside dans le fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires. Les couvreurs certifiés RGE du secteur adaptent leurs chantiers pour garantir l'étanchéité face aux colères du mistral ou des orages cévenols.",
+    "conseilLocal": "À Cadenet, le Mistral peut souffler à plus de 120 km/h en rafales. Les couvreurs du 84 recommandent de fixer mécaniquement (clouage ou crochetage) au moins une tuile sur trois, conformément aux normes DTU 40.21 pour la zone d'exposition III.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Cadenet ?",
+        "a": "Oui. Toute réfection de toiture à Cadenet impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Cadenet ?",
+        "a": "À Cadenet, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Cadenet ?",
+        "a": "Pour protéger votre maison à Cadenet des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 127,
+      "prixM2Demoussage": 18,
+      "delaiMoyenJours": 5
+    }
+  },
+  {
+    "nom": "Cheval-Blanc",
+    "slug": "cheval-blanc",
+    "codeInsee": "84038",
+    "codePostal": "84460",
+    "population": 4362,
+    "latitude": 43.7875,
+    "longitude": 5.1204,
+    "intercommunalite": "Communauté d'agglomération Luberon Monts de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Chaque saison met les charpentes et tuiles de Cheval-Blanc à rude épreuve. Le soleil torride d'été surchauffe les combles, tandis que l'automne apporte les vents du nord et la pluie. Le parc immobilier de cette commune de 4 362 habitants — maisons de village perchées aux toits serrés encastrés sous fortes contraintes architecturales ABF — exige des couvreurs du 84 un diagnostic précis face aux pathologies de villages perchés et vallées du Parc Naturel Régional du Luberon.",
+    "conseilLocal": "Le cycle d'entretien hydrofuge recommandé pour préserver les tuiles canal dans le secteur de Cheval-Blanc (Luberon & Pays d'Apt) est de 4 ans. L'application d'un hydrofuge de surface empêche la tuile de devenir poreuse sous l'effet du gel hivernal.",
+    "faq": [
+      {
+        "q": "Quelles sont les obligations PLU spécifiques pour les génoises dans le Luberon à Cheval-Blanc ?",
+        "a": "Dans le Luberon et le secteur de Cheval-Blanc, le PLU et les architectes-conseil imposent la restauration des génoises traditionnelles (2 ou 3 rangs de tuiles canal selon le standing du mas). Elles doivent être montées au mortier de chaux naturelle de couleur ocre clair, reproduisant les techniques locales historiques."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Cheval-Blanc ?",
+        "a": "Pour protéger votre maison à Cheval-Blanc des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Cheval-Blanc ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Cheval-Blanc, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 113,
+      "prixM2Demoussage": 15,
+      "delaiMoyenJours": 5
+    }
+  },
+  {
+    "nom": "Lauris",
+    "slug": "lauris",
+    "codeInsee": "84065",
+    "codePostal": "84360",
+    "population": 3921,
+    "latitude": 43.7611,
+    "longitude": 5.3019,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Baignée dans villages perchés et vallées du Parc Naturel Régional du Luberon, la commune de Lauris compte 3 921 habitants dont les maisons — granges agricoles converties et bastides provençales aux charpentes traditionnelles en bois résineux ou chêne — sont confrontées à exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense. Le risque principal pour les couvertures réside dans le fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires. Les couvreurs certifiés RGE du secteur adaptent leurs chantiers pour garantir l'étanchéité face aux colères du mistral ou des orages cévenols.",
+    "conseilLocal": "À Lauris et dans les zones montagneuses du Ventoux ou du Luberon (250m), le gel hivernal intense peut faire éclater les tuiles de terre cuite. Optez pour des tuiles conformes à la norme NF EN 490 garantissant la résistance au gel.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Lauris ?",
+        "a": "Oui. Toute réfection de toiture à Lauris impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelles sont les obligations PLU spécifiques pour les génoises dans le Luberon à Lauris ?",
+        "a": "Dans le Luberon et le secteur de Lauris, le PLU et les architectes-conseil imposent la restauration des génoises traditionnelles (2 ou 3 rangs de tuiles canal selon le standing du mas). Elles doivent être montées au mortier de chaux naturelle de couleur ocre clair, reproduisant les techniques locales historiques."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Lauris ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Lauris, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Lauris ?",
+        "a": "À Lauris, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Lauris ?",
+        "a": "Pour protéger votre maison à Lauris des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 120,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 13
+    }
+  },
+  {
+    "nom": "Lapalud",
+    "slug": "lapalud",
+    "codeInsee": "84064",
+    "codePostal": "84840",
+    "population": 3853,
+    "latitude": 44.3073,
+    "longitude": 4.6821,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Rénover ou entretenir sa toiture à Lapalud (84840) implique d'allier performance thermique moderne et respect des traditions. Cette commune de 3 853 habitants du Rhône & Haut-Vaucluse dispose d'un bâti noble constitué de maisons anciennes de caractère en pierre de taille à Vaison ou Orange aux toitures hautement réglementées. La violence de exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol multiplie le risque de glissement de tuiles canal non crochetées et infiltration sous l'effet de pluies poussées par le vent du nord, justifiant l'appui d'artisans couvreurs qualifiés du 84.",
+    "conseilLocal": "Après un coup de Mistral violent à Lapalud, réalisez un contrôle visuel des tuiles de rive et de faîtage. Si des tuiles canal se sont déplacées, contactez un couvreur du Vaucluse pour un ré-alignement ou scellement rapide afin d'éviter une infiltration lors des prochaines pluies.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Lapalud ?",
+        "a": "Pour protéger votre maison à Lapalud des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Lapalud ?",
+        "a": "Oui. Toute réfection de toiture à Lapalud impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 102,
+      "prixM2Demoussage": 15,
+      "delaiMoyenJours": 10
+    }
+  },
+  {
+    "nom": "Mondragon",
+    "slug": "mondragon",
+    "codeInsee": "84078",
+    "codePostal": "84430",
+    "population": 3833,
+    "latitude": 44.2407,
+    "longitude": 4.7326,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Dans le département de Vaucluse, la ville de Mondragon (3 833 habitants) affiche des enjeux d'urbanisme évidents : exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Son parc résidentiel formé de maisons anciennes de caractère en pierre de taille à Vaison ou Orange aux toitures hautement réglementées requiert des solutions thermiques durables. Isoler son toit par l'extérieur ou par soufflage de combles apporte 3°C de fraîcheur en été face aux canicules.",
+    "conseilLocal": "Après un coup de Mistral violent à Mondragon, réalisez un contrôle visuel des tuiles de rive et de faîtage. Si des tuiles canal se sont déplacées, contactez un couvreur du Vaucluse pour un ré-alignement ou scellement rapide afin d'éviter une infiltration lors des prochaines pluies.",
+    "faq": [
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Mondragon ?",
+        "a": "Pour protéger votre maison à Mondragon des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Mondragon ?",
+        "a": "Oui. Toute réfection de toiture à Mondragon impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 127,
+      "prixM2Demoussage": 19,
+      "delaiMoyenJours": 12
+    }
+  },
+  {
+    "nom": "Châteauneuf-de-Gadagne",
+    "slug": "chateauneuf-de-gadagne",
+    "codeInsee": "84036",
+    "codePostal": "84470",
+    "population": 3565,
+    "latitude": 43.9307,
+    "longitude": 4.9435,
+    "intercommunalite": "Communauté de communes Communes du Pays des Sorgues et des Monts de Vaucluse",
+    "microRegion": "sorgue-durance",
+    "microRegionLabel": "Monts de Vaucluse & Sorgues",
+    "altitude": 60,
+    "landmarks": [
+      "les sources et fontaines de Fontaine-de-Vaucluse",
+      "les canaux de L'Isle-sur-la-Sorgue"
+    ],
+    "introText": "Dans le département de Vaucluse, la ville de Châteauneuf-de-Gadagne (3 565 habitants) affiche des enjeux d'urbanisme évidents : taux d'humidité élevé près des cours d'eau et alternance thermique jour/nuit sur les roches calcaires. Son parc résidentiel formé de anciennes filatures et maisons bourgeoises au bord de la Sorgue aux toitures pentues en tuiles de terre cuite requiert des solutions thermiques durables. Isoler son toit par l'extérieur ou par soufflage de combles apporte 3°C de fraîcheur en été face aux canicules.",
+    "conseilLocal": "Après un coup de Mistral violent à Châteauneuf-de-Gadagne, réalisez un contrôle visuel des tuiles de rive et de faîtage. Si des tuiles canal se sont déplacées, contactez un couvreur du Vaucluse pour un ré-alignement ou scellement rapide afin d'éviter une infiltration lors des prochaines pluies.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Châteauneuf-de-Gadagne ?",
+        "a": "Pour protéger votre maison à Châteauneuf-de-Gadagne des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Châteauneuf-de-Gadagne ?",
+        "a": "À Châteauneuf-de-Gadagne, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Châteauneuf-de-Gadagne ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Châteauneuf-de-Gadagne, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 138,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 16
+    }
+  },
+  {
+    "nom": "Caromb",
+    "slug": "caromb",
+    "codeInsee": "84030",
+    "codePostal": "84330",
+    "population": 3479,
+    "latitude": 44.11,
+    "longitude": 5.1078,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Baignée dans plaine agricole du Comtat et contreforts du Mont Ventoux, la commune de Caromb compte 3 479 habitants dont les maisons — pavillons résidentiels modernes avec toitures à double pente résistants à la grêle du Ventoux — sont confrontées à chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence. Le risque principal pour les couvertures réside dans le bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole. Les couvreurs certifiés RGE du secteur adaptent leurs chantiers pour garantir l'étanchéité face aux colères du mistral ou des orages cévenols.",
+    "conseilLocal": "En plaine agricole du Comtat et contreforts du Mont Ventoux, l'ensoleillement intense dessèche rapidement les joints de mortier bâtard traditionnels. Faire inspecter l'étanchéité des génoises et des solins de cheminée permet d'anticiper de lourdes rénovations.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Caromb ?",
+        "a": "Pour protéger votre maison à Caromb des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Caromb ?",
+        "a": "À Caromb, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Caromb ?",
+        "a": "Oui. Toute réfection de toiture à Caromb impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Caromb ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Caromb, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 127,
+      "prixM2Demoussage": 16,
+      "delaiMoyenJours": 11
+    }
+  },
+  {
+    "nom": "Villelaure",
+    "slug": "villelaure",
+    "codeInsee": "84147",
+    "codePostal": "84530",
+    "population": 3398,
+    "latitude": 43.7066,
+    "longitude": 5.4266,
+    "intercommunalite": "Métropole d'Aix-Marseille-Provence (Territoire du Pays d'Aix)",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Villelaure (84530), charmante ville de 3 398 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des mas séculaires en pierres sèches et bastides luberonnaises aux toitures couvertes de tuiles canal patinées de récupération, requiert des artisans qualifiés en toiture. La rigueur du climat local — exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense — impose des techniques de pose robustes pour contrer les risques de fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires.",
+    "conseilLocal": "Après un coup de Mistral violent à Villelaure, réalisez un contrôle visuel des tuiles de rive et de faîtage. Si des tuiles canal se sont déplacées, contactez un couvreur du Vaucluse pour un ré-alignement ou scellement rapide afin d'éviter une infiltration lors des prochaines pluies.",
+    "faq": [
+      {
+        "q": "Quelles sont les obligations PLU spécifiques pour les génoises dans le Luberon à Villelaure ?",
+        "a": "Dans le Luberon et le secteur de Villelaure, le PLU et les architectes-conseil imposent la restauration des génoises traditionnelles (2 ou 3 rangs de tuiles canal selon le standing du mas). Elles doivent être montées au mortier de chaux naturelle de couleur ocre clair, reproduisant les techniques locales historiques."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Villelaure ?",
+        "a": "Oui. Toute réfection de toiture à Villelaure impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 145,
+      "prixM2Demoussage": 24,
+      "delaiMoyenJours": 16
+    }
+  },
+  {
+    "nom": "Velleron",
+    "slug": "velleron",
+    "codeInsee": "84142",
+    "codePostal": "84740",
+    "population": 3168,
+    "latitude": 43.9604,
+    "longitude": 5.0145,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Velleron (84740), charmante ville de 3 168 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des mas agricoles du Comtat et maisons de vignerons aux toits très étendus en tuiles canal d'époque, requiert des artisans qualifiés en toiture. La rigueur du climat local — chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence — impose des techniques de pose robustes pour contrer les risques de bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole.",
+    "conseilLocal": "L'intercommunalité Département de Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Velleron.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Velleron ?",
+        "a": "Oui. Toute réfection de toiture à Velleron impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Velleron ?",
+        "a": "Pour protéger votre maison à Velleron des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 131,
+      "prixM2Demoussage": 19,
+      "delaiMoyenJours": 14
+    }
+  },
+  {
+    "nom": "Bédoin",
+    "slug": "bedoin",
+    "codeInsee": "84017",
+    "codePostal": "84410",
+    "population": 3106,
+    "latitude": 44.1337,
+    "longitude": 5.2342,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 310,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Bédoin (84410), charmante ville de 3 106 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des mas agricoles du Comtat et maisons de vignerons aux toits très étendus en tuiles canal d'époque, requiert des artisans qualifiés en toiture. La rigueur du climat local — chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence — impose des techniques de pose robustes pour contrer les risques de bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole.",
+    "conseilLocal": "L'intercommunalité Département de Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Bédoin.",
+    "faq": [
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Bédoin ?",
+        "a": "À Bédoin, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Bédoin ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Bédoin, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Bédoin ?",
+        "a": "Pour protéger votre maison à Bédoin des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 120,
+      "prixM2Demoussage": 19,
+      "delaiMoyenJours": 12
+    }
+  },
+  {
+    "nom": "Gargas",
+    "slug": "gargas",
+    "codeInsee": "84047",
+    "codePostal": "84400",
+    "population": 3035,
+    "latitude": 43.8939,
+    "longitude": 5.3435,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Rénover ou entretenir sa toiture à Gargas (84400) implique d'allier performance thermique moderne et respect des traditions. Cette commune de 3 035 habitants du Luberon & Pays d'Apt dispose d'un bâti noble constitué de mas séculaires en pierres sèches et bastides luberonnaises aux toitures couvertes de tuiles canal patinées de récupération. La violence de exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense multiplie le risque de fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires, justifiant l'appui d'artisans couvreurs qualifiés du 84.",
+    "conseilLocal": "L'intercommunalité Département de Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Gargas.",
+    "faq": [
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Gargas ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Gargas, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Gargas ?",
+        "a": "À Gargas, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 138,
+      "prixM2Demoussage": 17,
+      "delaiMoyenJours": 16
+    }
+  },
+  {
+    "nom": "Saint-Saturnin-lès-Apt",
+    "slug": "saint-saturnin-les-apt",
+    "codeInsee": "84118",
+    "codePostal": "84490",
+    "population": 3004,
+    "latitude": 43.961,
+    "longitude": 5.3566,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Rénover ou entretenir sa toiture à Saint-Saturnin-lès-Apt (84490) implique d'allier performance thermique moderne et respect des traditions. Cette commune de 3 004 habitants du Luberon & Pays d'Apt dispose d'un bâti noble constitué de mas séculaires en pierres sèches et bastides luberonnaises aux toitures couvertes de tuiles canal patinées de récupération. La violence de exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense multiplie le risque de fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires, justifiant l'appui d'artisans couvreurs qualifiés du 84.",
+    "conseilLocal": "Après un coup de Mistral violent à Saint-Saturnin-lès-Apt, réalisez un contrôle visuel des tuiles de rive et de faîtage. Si des tuiles canal se sont déplacées, contactez un couvreur du Vaucluse pour un ré-alignement ou scellement rapide afin d'éviter une infiltration lors des prochaines pluies.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Saint-Saturnin-lès-Apt ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Saint-Saturnin-lès-Apt, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Saint-Saturnin-lès-Apt ?",
+        "a": "Oui. Toute réfection de toiture à Saint-Saturnin-lès-Apt impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Saint-Saturnin-lès-Apt ?",
+        "a": "À Saint-Saturnin-lès-Apt, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 114,
+      "prixM2Demoussage": 17,
+      "delaiMoyenJours": 12
+    }
+  },
+  {
+    "nom": "Althen-des-Paluds",
+    "slug": "althen-des-paluds",
+    "codeInsee": "84001",
+    "codePostal": "84210",
+    "population": 2960,
+    "latitude": 44.0055,
+    "longitude": 4.9585,
+    "intercommunalite": "Communauté de communes Communes du Pays des Sorgues et des Monts de Vaucluse",
+    "microRegion": "sorgue-durance",
+    "microRegionLabel": "Monts de Vaucluse & Sorgues",
+    "altitude": 60,
+    "landmarks": [
+      "les sources et fontaines de Fontaine-de-Vaucluse",
+      "les canaux de L'Isle-sur-la-Sorgue"
+    ],
+    "introText": "Prendre soin de son toit à Althen-des-Paluds est capital pour faire face aux taux d'humidité élevé près des cours d'eau et alternance thermique jour/nuit sur les roches calcaires. Le patrimoine résidentiel de cette localité de 2 960 habitants — villas individuelles modernes sujettes à l'humidité des canaux de L'Isle-sur-la-Sorgue — recommande un cycle de révision préventif de 3 ans. Proche de les sources et fontaines de Fontaine-de-Vaucluse, Althen-des-Paluds profite d'artisans couvreurs certifiés RGE rompus aux exigences architecturales du Monts de Vaucluse & Sorgues.",
+    "conseilLocal": "Lors de la demande de devis à Althen-des-Paluds, exigez de l'artisan couvreur qu'il vous présente son attestation d'assurance décennale nominative couvrant spécifiquement la couverture, la zinguerie et l'isolation thermique dans le Vaucluse.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Althen-des-Paluds ?",
+        "a": "Oui. Toute réfection de toiture à Althen-des-Paluds impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Althen-des-Paluds ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Althen-des-Paluds, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 2,
+      "prixM2Refection": 106,
+      "prixM2Demoussage": 13,
+      "delaiMoyenJours": 16
+    }
+  },
+  {
+    "nom": "Sérignan-du-Comtat",
+    "slug": "serignan-du-comtat",
+    "codeInsee": "84127",
+    "codePostal": "84830",
+    "population": 2939,
+    "latitude": 44.1933,
+    "longitude": 4.8496,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Chaque saison met les charpentes et tuiles de Sérignan-du-Comtat à rude épreuve. Le soleil torride d'été surchauffe les combles, tandis que l'automne apporte les vents du nord et la pluie. Le parc immobilier de cette commune de 2 939 habitants — bâtisses de village exposées aux vents violents de la vallée du Rhône nécessitant un clouage ou crochetage renforcé — exige des couvreurs du 84 un diagnostic précis face aux pathologies de couloir rhodanien nord et collines de l'Enclave des Papes.",
+    "conseilLocal": "Si votre toiture à Sérignan-du-Comtat est située dans le périmètre de visibilité d'un monument historique (comme le Palais des Papes d'Avignon ou le Théâtre Antique d'Orange), vous devrez obligatoirement obtenir l'aval de l'Architecte des Bâtiments de France (ABF).",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Sérignan-du-Comtat ?",
+        "a": "Pour protéger votre maison à Sérignan-du-Comtat des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Sérignan-du-Comtat ?",
+        "a": "Oui. Toute réfection de toiture à Sérignan-du-Comtat impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Sérignan-du-Comtat ?",
+        "a": "À Sérignan-du-Comtat, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 118,
+      "prixM2Demoussage": 20,
+      "delaiMoyenJours": 5
+    }
+  },
+  {
+    "nom": "Malaucène",
+    "slug": "malaucene",
+    "codeInsee": "84069",
+    "codePostal": "84340",
+    "population": 2758,
+    "latitude": 44.1804,
+    "longitude": 5.1559,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "Malaucène (84340), charmante ville de 2 758 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des maisons anciennes de caractère en pierre de taille à Vaison ou Orange aux toitures hautement réglementées, requiert des artisans qualifiés en toiture. La rigueur du climat local — exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol — impose des techniques de pose robustes pour contrer les risques de glissement de tuiles canal non crochetées et infiltration sous l'effet de pluies poussées par le vent du nord.",
+    "conseilLocal": "Après un coup de Mistral violent à Malaucène, réalisez un contrôle visuel des tuiles de rive et de faîtage. Si des tuiles canal se sont déplacées, contactez un couvreur du Vaucluse pour un ré-alignement ou scellement rapide afin d'éviter une infiltration lors des prochaines pluies.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Malaucène ?",
+        "a": "Oui. Toute réfection de toiture à Malaucène impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Malaucène ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Malaucène, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Malaucène ?",
+        "a": "Pour sécuriser le toit à Malaucène face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 104,
+      "prixM2Demoussage": 17,
+      "delaiMoyenJours": 14
+    }
+  },
+  {
+    "nom": "Sainte-Cécile-les-Vignes",
+    "slug": "sainte-cecile-les-vignes",
+    "codeInsee": "84106",
+    "codePostal": "84290",
+    "population": 2656,
+    "latitude": 44.2344,
+    "longitude": 4.8949,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "La commune de Sainte-Cécile-les-Vignes dans le Vaucluse fait face à des conditions climatiques intenses : exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Les 2 656 habitants du secteur résident dans un parc immobilier composé de villas contemporaines aux structures légères et matériaux certifiés NF anti-vent, exigeant un savoir-faire traditionnel en couverture. Proche de le Théâtre Antique d'Orange, les interventions de rénovation ou de démoussage doivent particulièrement parer aux risques de glissement de tuiles canal non crochetées et infiltration sous l'effet de pluies poussées par le vent du nord.",
+    "conseilLocal": "À Sainte-Cécile-les-Vignes, le Mistral peut souffler à plus de 120 km/h en rafales. Les couvreurs du 84 recommandent de fixer mécaniquement (clouage ou crochetage) au moins une tuile sur trois, conformément aux normes DTU 40.21 pour la zone d'exposition III.",
+    "faq": [
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Sainte-Cécile-les-Vignes ?",
+        "a": "À Sainte-Cécile-les-Vignes, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Sainte-Cécile-les-Vignes ?",
+        "a": "Oui. Toute réfection de toiture à Sainte-Cécile-les-Vignes impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Sainte-Cécile-les-Vignes ?",
+        "a": "Pour sécuriser le toit à Sainte-Cécile-les-Vignes face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Sainte-Cécile-les-Vignes ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Sainte-Cécile-les-Vignes, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 118,
+      "prixM2Demoussage": 20,
+      "delaiMoyenJours": 13
+    }
+  },
+  {
+    "nom": "Mornas",
+    "slug": "mornas",
+    "codeInsee": "84083",
+    "codePostal": "84550",
+    "population": 2569,
+    "latitude": 44.1997,
+    "longitude": 4.7438,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "rhone-nord",
+    "microRegionLabel": "Rhône & Haut-Vaucluse",
+    "altitude": 90,
+    "landmarks": [
+      "le Théâtre Antique d'Orange",
+      "les vignobles réputés de Châteauneuf-du-Pape"
+    ],
+    "introText": "La commune de Mornas dans le Vaucluse fait face à des conditions climatiques intenses : exposition directe au Mistral de plein fouet et risque d'orages violents à caractère cévenol. Les 2 569 habitants du secteur résident dans un parc immobilier composé de villas contemporaines aux structures légères et matériaux certifiés NF anti-vent, exigeant un savoir-faire traditionnel en couverture. Proche de le Théâtre Antique d'Orange, les interventions de rénovation ou de démoussage doivent particulièrement parer aux risques de glissement de tuiles canal non crochetées et infiltration sous l'effet de pluies poussées par le vent du nord.",
+    "conseilLocal": "À Mornas, le Mistral peut souffler à plus de 120 km/h en rafales. Les couvreurs du 84 recommandent de fixer mécaniquement (clouage ou crochetage) au moins une tuile sur trois, conformément aux normes DTU 40.21 pour la zone d'exposition III.",
+    "faq": [
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Mornas ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Mornas, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Mornas ?",
+        "a": "Oui. Toute réfection de toiture à Mornas impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Mornas ?",
+        "a": "Pour sécuriser le toit à Mornas face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 2,
+      "prixM2Refection": 103,
+      "prixM2Demoussage": 16,
+      "delaiMoyenJours": 13
+    }
+  },
+  {
+    "nom": "Caderousse",
+    "slug": "caderousse",
+    "codeInsee": "84027",
+    "codePostal": "84860",
+    "population": 2493,
+    "latitude": 44.1155,
+    "longitude": 4.746,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 30,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Baignée dans bassin de vie avignonnais et confluence du Rhône et de la Durance, la commune de Caderousse compte 2 493 habitants dont les maisons — maisons de faubourg traditionnelles mitoyennes aux toitures exposées aux rafales canalisées du Mistral — sont confrontées à Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains. Le risque principal pour les couvertures réside dans le arrachement de tuiles canal ou romanes et infiltrations massives sous toitures en zone urbaine dense. Les couvreurs certifiés RGE du secteur adaptent leurs chantiers pour garantir l'étanchéité face aux colères du mistral ou des orages cévenols.",
+    "conseilLocal": "Pour atténuer la chaleur sous combles en été à Caderousse, la ventilation sous tuiles est capitale. Assurez-vous que votre couvreur installe des chatières de ventilation suffisantes et un closoir de faîtage ventilé pour réduire la surchauffe.",
+    "faq": [
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Caderousse ?",
+        "a": "Pour sécuriser le toit à Caderousse face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Caderousse ?",
+        "a": "Pour protéger votre maison à Caderousse des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Caderousse ?",
+        "a": "Oui. Toute réfection de toiture à Caderousse impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 2,
+      "prixM2Refection": 121,
+      "prixM2Demoussage": 19,
+      "delaiMoyenJours": 13
+    }
+  },
+  {
+    "nom": "Loriol-du-Comtat",
+    "slug": "loriol-du-comtat",
+    "codeInsee": "84067",
+    "codePostal": "84870",
+    "population": 2486,
+    "latitude": 44.0759,
+    "longitude": 5.0049,
+    "intercommunalite": "Communauté d'agglomération Ventoux-Comtat Venaissin (CoVe)",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Recourir à un artisan couvreur familier du climat vauclusien à Loriol-du-Comtat est la clé pour des travaux durables. Cette commune de 2 486 habitants, sise dans plaine agricole du Comtat et contreforts du Mont Ventoux, présente un bâti de villas individuelles récentes construites dans la garrigue calcaire avec écrans de sous-toiture HPV. Avec chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence, les toitures doivent être solidement ancrées et traitées régulièrement pour stopper le bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole.",
+    "conseilLocal": "La proximité de pinèdes, de chênes ou de cyprès autour de votre bâtisse à Loriol-du-Comtat peut obstruer vos gouttières avec des aiguilles et feuilles. La pose de crapaudines et de pare-feuilles en aluminium évite les débordements d'eau pluviale.",
+    "faq": [
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Loriol-du-Comtat ?",
+        "a": "Pour protéger votre maison à Loriol-du-Comtat des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Loriol-du-Comtat ?",
+        "a": "À Loriol-du-Comtat, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Loriol-du-Comtat ?",
+        "a": "Oui. Toute réfection de toiture à Loriol-du-Comtat impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 110,
+      "prixM2Demoussage": 21,
+      "delaiMoyenJours": 9
+    }
+  },
+  {
+    "nom": "Beaumes-de-Venise",
+    "slug": "beaumes-de-venise",
+    "codeInsee": "84012",
+    "codePostal": "84190",
+    "population": 2442,
+    "latitude": 44.1224,
+    "longitude": 5.0279,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Beaumes-de-Venise (84190), charmante ville de 2 442 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des mas agricoles du Comtat et maisons de vignerons aux toits très étendus en tuiles canal d'époque, requiert des artisans qualifiés en toiture. La rigueur du climat local — chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence — impose des techniques de pose robustes pour contrer les risques de bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole.",
+    "conseilLocal": "Le Plan Local d'Urbanisme (PLU) de Beaumes-de-Venise (84190) définit précisément les teintes autorisées (tuiles ocre flammé ou vieux sud) et interdit certaines finitions modernes. Renseignez-vous auprès du service d'urbanisme de la mairie avant vos travaux.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Beaumes-de-Venise ?",
+        "a": "Oui. Toute réfection de toiture à Beaumes-de-Venise impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Beaumes-de-Venise ?",
+        "a": "Pour protéger votre maison à Beaumes-de-Venise des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 105,
+      "prixM2Demoussage": 15,
+      "delaiMoyenJours": 10
+    }
+  },
+  {
+    "nom": "Mérindol",
+    "slug": "merindol",
+    "codeInsee": "84074",
+    "codePostal": "84360",
+    "population": 2283,
+    "latitude": 43.7648,
+    "longitude": 5.1884,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Les toitures à Mérindol requièrent une expertise spécifique liée à l'implantation de la ville dans villages perchés et vallées du Parc Naturel Régional du Luberon. Avec 2 283 habitants et les carrières d'ocre de Roussillon et les villages perchés comme repère visuel, le bâti local composé de maisons de village perchées aux toits serrés encastrés sous fortes contraintes architecturales ABF subit de plein fouet exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense. Les couvreurs qualifiés interviennent pour limiter les risques de fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires très fréquents dans la région.",
+    "conseilLocal": "La proximité de pinèdes, de chênes ou de cyprès autour de votre bâtisse à Mérindol peut obstruer vos gouttières avec des aiguilles et feuilles. La pose de crapaudines et de pare-feuilles en aluminium évite les débordements d'eau pluviale.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Mérindol ?",
+        "a": "Pour protéger votre maison à Mérindol des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Mérindol ?",
+        "a": "Oui. Toute réfection de toiture à Mérindol impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Mérindol ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Mérindol, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Mérindol ?",
+        "a": "À Mérindol, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 118,
+      "prixM2Demoussage": 20,
+      "delaiMoyenJours": 9
+    }
+  },
+  {
+    "nom": "Saint-Didier",
+    "slug": "saint-didier",
+    "codeInsee": "84108",
+    "codePostal": "84210",
+    "population": 2208,
+    "latitude": 44.0108,
+    "longitude": 5.1093,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "ventoux-comtat",
+    "microRegionLabel": "Comtat Venaissin & Ventoux",
+    "altitude": 110,
+    "landmarks": [
+      "le géant de Provence Mont Ventoux",
+      "les dentelles de Montmirail"
+    ],
+    "introText": "Saint-Didier (84210), charmante ville de 2 208 habitants, présente un marché immobilier patrimonial recherché dans le Vaucluse. Le parc de logements, caractérisé par des mas agricoles du Comtat et maisons de vignerons aux toits très étendus en tuiles canal d'époque, requiert des artisans qualifiés en toiture. La rigueur du climat local — chaleur estivale écrasante, orages de grêle destructeurs et vent descendant violent du Géant de Provence — impose des techniques de pose robustes pour contrer les risques de bris de tuiles sous la grêle, dessèchement des mortiers de chaux et infiltration d'eau cévenole.",
+    "conseilLocal": "L'intercommunalité Département de Vaucluse propose des aides spécifiques ou des conseils via l'Espace Conseil France Rénov' local. N'hésitez pas à les solliciter avant de lancer la rénovation thermique de votre toiture à Saint-Didier.",
+    "faq": [
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      },
+      {
+        "q": "Puis-je utiliser des tuiles de récupération pour mon mas à Saint-Didier ?",
+        "a": "Oui, pour conserver l'authenticité d'un mas provençal à Saint-Didier, l'utilisation de tuiles canal anciennes de récupération (patinées par le temps) est très fréquente. Les couvreurs associent généralement une sous-couche moderne (plaque sous-tuile ou tuile de courant neuve) avec des tuiles de couvert anciennes pour garantir l'étanchéité."
+      },
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Saint-Didier ?",
+        "a": "Oui. Toute réfection de toiture à Saint-Didier impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Saint-Didier ?",
+        "a": "Pour protéger votre maison à Saint-Didier des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 4,
+      "prixM2Refection": 111,
+      "prixM2Demoussage": 22,
+      "delaiMoyenJours": 12
+    }
+  },
+  {
+    "nom": "Châteauneuf-du-Pape",
+    "slug": "chateauneuf-du-pape",
+    "codeInsee": "84037",
+    "codePostal": "84230",
+    "population": 2050,
+    "latitude": 44.0602,
+    "longitude": 4.8263,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "plaine-avignon",
+    "microRegionLabel": "Grand Avignon & Sorgues",
+    "altitude": 30,
+    "landmarks": [
+      "le Palais des Papes d'Avignon",
+      "les remparts historiques et le fleuve Rhône"
+    ],
+    "introText": "Baignée dans bassin de vie avignonnais et confluence du Rhône et de la Durance, la commune de Châteauneuf-du-Pape compte 2 050 habitants dont les maisons — maisons de faubourg traditionnelles mitoyennes aux toitures exposées aux rafales canalisées du Mistral — sont confrontées à Mistral dévastateur canalisé par la vallée du Rhône soufflant plus de 120 jours par an et orages d'été soudains. Le risque principal pour les couvertures réside dans le arrachement de tuiles canal ou romanes et infiltrations massives sous toitures en zone urbaine dense. Les couvreurs certifiés RGE du secteur adaptent leurs chantiers pour garantir l'étanchéité face aux colères du mistral ou des orages cévenols.",
+    "conseilLocal": "En bassin de vie avignonnais et confluence du Rhône et de la Durance, l'ensoleillement intense dessèche rapidement les joints de mortier bâtard traditionnels. Faire inspecter l'étanchéité des génoises et des solins de cheminée permet d'anticiper de lourdes rénovations.",
+    "faq": [
+      {
+        "q": "Faut-il une autorisation d'urbanisme pour refaire un toit à Châteauneuf-du-Pape ?",
+        "a": "Oui. Toute réfection de toiture à Châteauneuf-du-Pape impliquant une modification des matériaux, des couleurs ou de l'aspect extérieur nécessite le dépôt d'une Déclaration Préalable (DP) en mairie. En zone de protection du patrimoine (ABF), le délai d'instruction est généralement de 2 mois."
+      },
+      {
+        "q": "Comment sécuriser ma toiture contre le Mistral violent à Châteauneuf-du-Pape ?",
+        "a": "Pour sécuriser le toit à Châteauneuf-du-Pape face au Mistral qui souffle fréquemment à plus de 100 km/h, le couvreur applique la norme DTU 40.21. Cela consiste à fixer les tuiles mécaniquement à l'aide de crochets ou de vis en inox sur les liteaux, en insistant sur le faîtage, les rives et le bas de pente."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Châteauneuf-du-Pape ?",
+        "a": "À Châteauneuf-du-Pape, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Châteauneuf-du-Pape ?",
+        "a": "Pour protéger votre maison à Châteauneuf-du-Pape des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quelle est la durée de vie d'une toiture en tuiles dans le Vaucluse ?",
+        "a": "Dans le Vaucluse, une toiture en tuiles de terre cuite de qualité a une durée de vie moyenne de 50 à 80 ans. Le climat sec mais soumis au Mistral extrême exige toutefois un contrôle régulier de la fixation et de l'état des joints de mortier tous les 10 ans."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 3,
+      "prixM2Refection": 119,
+      "prixM2Demoussage": 17,
+      "delaiMoyenJours": 17
+    }
+  },
+  {
+    "nom": "Taillades",
+    "slug": "taillades",
+    "codeInsee": "84131",
+    "codePostal": "84300",
+    "population": 2040,
+    "latitude": 43.8312,
+    "longitude": 5.0965,
+    "intercommunalite": "Département de Vaucluse",
+    "microRegion": "luberon",
+    "microRegionLabel": "Luberon & Pays d'Apt",
+    "altitude": 250,
+    "landmarks": [
+      "les carrières d'ocre de Roussillon et les villages perchés",
+      "le Parc Naturel Régional du Luberon"
+    ],
+    "introText": "Perchée à 250m d'altitude dans un relief typique, la commune de Taillades (2 040 habitants) abrite un bâti historique composé de propriétés de prestige restaurées avec des génoises maçonnées à trois rangs de tuiles traditionnelles. Exposition au Mistral sur les crêtes, gel hivernal vif dans les vallées et sécheresse estivale intense : les toitures subissent ici un fissuration des tuiles canal par gel-dégel et infiltration par vent de face sur toitures séculaires. À proximité immédiate de les carrières d'ocre de Roussillon et les villages perchés, les maîtres couvreurs certifiés RGE du 84 restaurent les toitures dans le respect absolu des règles de l'art.",
+    "conseilLocal": "Lors de la demande de devis à Taillades, exigez de l'artisan couvreur qu'il vous présente son attestation d'assurance décennale nominative couvrant spécifiquement la couverture, la zinguerie et l'isolation thermique dans le Vaucluse.",
+    "faq": [
+      {
+        "q": "Quelles sont les obligations PLU spécifiques pour les génoises dans le Luberon à Taillades ?",
+        "a": "Dans le Luberon et le secteur de Taillades, le PLU et les architectes-conseil imposent la restauration des génoises traditionnelles (2 ou 3 rangs de tuiles canal selon le standing du mas). Elles doivent être montées au mortier de chaux naturelle de couleur ocre clair, reproduisant les techniques locales historiques."
+      },
+      {
+        "q": "Pourquoi installer un écran sous-toiture HPV dans le Vaucluse ?",
+        "a": "L'écran sous-toiture HPV (Haute Perméabilité à la Vapeur) protège la charpente des infiltrations de neige poudreuse du Ventoux ou de pluie poussée par le Mistral violent, tout en évacuant l'humidité intérieure de l'habitation."
+      },
+      {
+        "q": "Comment isoler ma toiture contre la chaleur estivale à Taillades ?",
+        "a": "Pour protéger votre maison à Taillades des fortes chaleurs d'été (souvent > 40°C), l'isolation par sarking (extérieure) en laine de bois haute densité est idéale. Avec un déphasage thermique de 10 à 12 heures, elle empêche la chaleur de traverser le toit en journée, réduisant l'usage de la climatisation."
+      },
+      {
+        "q": "Quel est le prix moyen par m² pour refaire un toit à Taillades ?",
+        "a": "À Taillades, le tarif moyen pour une réfection de toiture en tuiles romanes oscille entre 90€ et 145€ le m² TTC (pose comprise). Pour des tuiles canal traditionnelles posées sur un mas ou une bastide provençale, comptez entre 120€ et 185€ le m² TTC en raison de la pose sur mortier de chaux et des finitions en génoises."
+      }
+    ],
+    "marketData": {
+      "couvreursRGE": 2,
+      "prixM2Refection": 119,
+      "prixM2Demoussage": 21,
+      "delaiMoyenJours": 14
+    }
+  }
+]

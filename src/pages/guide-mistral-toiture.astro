@@ -1,0 +1,102 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import StepsForm from '../components/StepsForm.astro';
+
+const title = "Guide Mistral & Tempêtes : Protéger sa Toiture dans le Vaucluse (84)";
+const description = "Comment protéger votre maison des vents violents et tempêtes de mistral dans le Vaucluse. Les points de contrôle sur votre toiture (clouage tuiles, scellements chaux, DTU 40.21).";
+
+const breadcrumbItems = [
+  { label: "Accueil", href: "/" },
+  { label: "Guide Mistral & Toiture" }
+];
+---
+
+<Layout title={title} description={description}>
+  <Breadcrumb items={breadcrumbItems} />
+
+  <section style="padding: 50px 0 80px; background-color: var(--card-bg); font-family: var(--font-body);">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 50px;">
+        <span class="badge-pill" style="margin-bottom: 15px; background: rgba(239, 68, 68, 0.1); color: #EF4444; border-color: #FCA5A5;">⚠️ Alerte Vent Fort Vaucluse</span>
+        <h1 style="font-family: var(--font-heading); font-size: 36px; font-weight: 800; color: var(--primary); margin-bottom: 15px;">
+          Le Mistral &amp; Votre Toiture : Comment Éviter les Sinistres ?
+        </h1>
+        <p style="font-size: 16.5px; color: var(--text-muted); line-height: 1.6;">
+          Soufflant plus de 120 jours par an dans la vallée du Rhône et les plaines du Vaucluse, le Mistral atteint régulièrement des vitesses supérieures à 110 km/h. Ce vent sec et violent exerce des pressions aérodynamiques extrêmes sur les toits. Comprendre ces phénomènes et appliquer les normes de fixation est indispensable pour sécuriser votre patrimoine.
+        </p>
+      </div>
+
+      <div class="two-column-layout" style="align-items: start;">
+        <!-- Left: Technical Article -->
+        <div style="font-size: 15px; color: var(--text); line-height: 1.7; display: flex; flex-direction: column; gap: 25px;">
+          <div style="border-radius: var(--radius-md); overflow: hidden; border: 2px solid var(--border-color); box-shadow: var(--shadow-sm); margin-bottom: 5px;">
+            <img src="/images/guides/guide-2.png" alt="Rafales de vent de mistral secouant un toit provençal" style="width: 100%; height: 240px; object-fit: cover;" />
+          </div>
+
+          <div style="background: var(--primary-light); border: 2px solid var(--border-color); padding: 25px; border-radius: var(--radius-sm);">
+            <h3 style="font-family: var(--font-heading); font-weight: 700; color: var(--primary); margin-bottom: 10px; font-size: 18px;">💡 La Physique du Vent : L'Effet Venturi et la Dépression de Toiture</h3>
+            <p style="margin: 0; color: var(--text-muted); font-size: 14.5px; line-height: 1.6;">
+              Contrairement à l'idée reçue, ce n'est pas uniquement la force directe du vent qui arrache les tuiles, mais plutôt la <strong>dépression aérodynamique</strong> créée au-dessus du toit. Lorsque le Mistral rencontre la façade d'une maison, il est forcé de s'accélérer pour contourner le faîtage. Selon le théorème de Bernoulli, cette accélération crée une zone de basse pression (dépression) sur le versant opposé du toit (effet Venturi). 
+              <br/><br/>
+              Cette force d'aspiration verticale tend à soulever les tuiles de bas en haut. Si l'air s'infiltre sous la toiture (en raison d'une charpente non étanche ou de l'absence d'écran sous-toiture), la surpression interne pousse également les tuiles vers le haut, doublant le risque d'envol.
+            </p>
+          </div>
+
+          <div>
+            <h2 style="font-family: var(--font-heading); font-size: 24px; font-weight: 800; color: var(--primary); margin-bottom: 15px; border-bottom: 2px solid var(--border-color); padding-bottom: 5px;">
+              Les Normes de Fixation : Ce que dit le DTU 40.21
+            </h2>
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              Le Document Technique Unifié (DTU) 40.21 régit la pose des tuiles en terre cuite à emboîtement (tuiles romanes). Le département du Vaucluse est classé en **Zone 3 d'exposition au vent** (exposition forte).
+            </p>
+            
+            <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 750; color: var(--primary); margin-top: 20px; margin-bottom: 8px;">1. Crochetage et Clouage Systématiques</h3>
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              Dans le Vaucluse, la fixation mécanique des tuiles est obligatoire. Sur la partie courante du toit, il faut fixer au moins **une tuile sur trois** à l'aide de crochets en acier inoxydable ou de vis à bois. Sur toutes les zones périphériques (qui subissent les plus fortes turbulences), la fixation doit être de **100%** :
+            </p>
+            <ul style="padding-left: 20px; color: var(--text-muted); display: flex; flex-direction: column; gap: 8px; margin-bottom: 15px;">
+              <li><strong>Les rives latérales :</strong> Chaque tuile de rive doit être solidement vissée sur le chevron ou la plaque de rive.</li>
+              <li><strong>La ligne d'égout (bas du toit) :</strong> Les tuiles de la première ligne doivent toutes être fixées pour éviter que le vent ne s'engouffre sous la couverture.</li>
+              <li><strong>Les faîtages et arêtiers :</strong> Les tuiles faîtières doivent être fixées mécaniquement sur une rehausse en bois (pose à sec) ou scellées individuellement.</li>
+            </ul>
+
+            <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 750; color: var(--primary); margin-bottom: 8px;">2. Scellement souple des Tuiles Canal à la Chaux</h3>
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              Pour les toitures traditionnelles en tuiles canal (couramment utilisées sur les mas anciens du Comtat Venaissin et du Luberon), le scellement au mortier est la règle de l'art. Toutefois, l'utilisation de ciment pur est proscrite car trop rigide : sous les vibrations causées par les rafales continues du mistral, le ciment fissure et se détache. 
+              <br/><br/>
+              Les couvreurs professionnels utilisent un **mortier de chaux hydraulique naturelle NHL 3.5**. Ce mortier conserve une légère élasticité qui absorbe les vibrations du vent et les micro-mouvements de la charpente en bois tout en garantissant un poids suffisant pour les maintenir en place.
+            </p>
+
+            <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 750; color: var(--primary); margin-bottom: 8px;">3. L'Écran sous-toiture HPV : Le Bouclier Indispensable</h3>
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              La pose d'un écran sous-toiture HPV (Haute Perméabilité à la Vapeur) est devenue incontournable lors d'une réfection complète. Cet écran synthétique étanche à l'eau mais respirant remplit deux rôles majeurs face au vent :
+            </p>
+            <ul style="padding-left: 20px; color: var(--text-muted); display: flex; flex-direction: column; gap: 8px; margin-bottom: 15px;">
+              <li><strong>Barrière de pression :</strong> Il empêche le vent de pénétrer directement dans les combles isolés, équilibrant les pressions intérieures et extérieures et limitant l'aspiration des tuiles.</li>
+              <li><strong>Protection contre les infiltrations de neige poudreuse et de poussières :</strong> En hiver, le mistral glacial peut pousser la neige poudreuse sous les tuiles. L'écran HPV la recueille et la dirige vers les gouttières, protégeant vos plafonds.</li>
+            </ul>
+          </div>
+
+          <div style="background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-md); padding: 30px; box-shadow: var(--shadow-sm);">
+            <h2 style="font-family: var(--font-heading); font-size: 22px; font-weight: 800; color: var(--primary); margin-bottom: 15px; text-align: center;">🛡️ Guide de Réaction Rapide : Que faire après une tempête de Mistral ?</h2>
+            <p style="color: var(--text-muted); margin-bottom: 20px; font-size: 14.5px;">
+              Si des rafales de mistral ont endommagé votre toiture, chaque heure compte pour éviter que de futures pluies ne causent des dégâts des eaux.
+            </p>
+            <ol style="padding-left: 20px; display: flex; flex-direction: column; gap: 12px; color: var(--text-muted); font-size: 14px;">
+              <li><strong>Mise en sécurité immédiate :</strong> Ne montez jamais sur votre toit vous-même, surtout par vent fort ou après la pluie (risque de glissade mortelle sur tuiles humides). Balisez la zone au sol si des tuiles menacent de tomber.</li>
+              <li><strong>Prise de photos depuis le sol :</strong> Prenez des clichés des dégâts visibles (tuiles déplacées, gouttières arrachées) pour constituer votre dossier d'assurance.</li>
+              <li><strong>Contacter un couvreur pour un bâchage d'urgence :</strong> Les artisans locaux proposent des interventions rapides sous 24h à 48h pour installer des bâches de protection temporaires et éviter les infiltrations d'eau.</li>
+              <li><strong>Déclaration de sinistre :</strong> Contactez votre assureur multirisque habitation sous 5 jours ouvrés. Transmettez-leur le devis détaillé de réparation fourni par votre couvreur professionnel.</li>
+            </ol>
+          </div>
+        </div>
+
+        <!-- Right: Form -->
+        <div>
+          <StepsForm />
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>

@@ -1,0 +1,82 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Breadcrumb from '../components/Breadcrumb.astro';
+import StepsForm from '../components/StepsForm.astro';
+
+const title = "Restauration de Mas Provençal : Isolation sous Toiture & Confort Thermique dans le Vaucluse (84)";
+const description = "Comment isoler la toiture d'un mas en pierre en Provence sans dénaturer son charme ancien. Sarking en fibre de bois, tuiles canal anciennes et génoises.";
+
+const breadcrumbItems = [
+  { label: "Accueil", href: "/" },
+  { label: "Restauration Mas Provençal" }
+];
+---
+
+<Layout title={title} description={description}>
+  <Breadcrumb items={breadcrumbItems} />
+
+  <section style="padding: 50px 0 80px; background-color: var(--card-bg);">
+    <div class="container">
+      <div style="text-align: center; max-width: 800px; margin: 0 auto 50px;">
+        <span class="badge-pill" style="margin-bottom: 15px; background: #FAF5FF; color: var(--secondary); border-color: var(--secondary);">🏡 Patrimoine Vauclusien</span>
+        <h1 style="font-family: var(--font-heading); font-size: 36px; font-weight: 800; color: var(--primary); margin-bottom: 15px;">
+          Isoler &amp; Restaurer la Toiture d'un Mas en Pierre Provençal
+        </h1>
+        <p style="font-size: 16.5px; color: var(--text-muted); line-height: 1.6;">
+          Les mas provençaux traditionnels du Luberon et du Comtat Venaissin possèdent des murs épais en pierre calcaire qui régulent naturellement la température. Cependant, sans isolation sous toiture performante, les combles deviennent une véritable fournaise en été.
+        </p>
+      </div>
+
+      <div class="two-column-layout" style="align-items: start;">
+        <!-- Left: Technical Article -->
+        <div style="font-size: 15px; color: var(--text); line-height: 1.7; display: flex; flex-direction: column; gap: 25px;">
+          <div style="border-radius: var(--radius-md); overflow: hidden; border: 2px solid var(--border-color); box-shadow: var(--shadow-sm); margin-bottom: 5px;">
+            <img src="/images/guides/guide-7.png" alt="Restauration de la toiture d'un mas ancien en pierres de pays avec tuiles canal patinées" style="width: 100%; height: 240px; object-fit: cover;" />
+          </div>
+
+          <div style="background: var(--primary-light); border: 2px solid var(--border-color); padding: 25px; border-radius: var(--radius-sm);">
+            <h3 style="font-family: var(--font-heading); font-weight: 700; color: var(--primary); margin-bottom: 10px; font-size: 18px;">💡 Le Défi : Allier Performance et Préservation esthétique</h3>
+            <p style="margin: 0; color: var(--text-muted);">
+              Lorsqu'on rénove la toiture d'une bâtisse ancienne en Provence, l'isolation thermique est indispensable (les combles représentant 30% des déperditions de chaleur en hiver et l'entrée principale de la chaleur en été). Mais la pose de matériaux modernes à l'intérieur cache les magnifiques poutres de charpente en chêne et les parefeuilles (briquettes de terre cuite). À l'extérieur, il faut respecter la forme des tuiles canal anciennes et les rangs de génoises d'époque.
+            </p>
+          </div>
+
+          <div>
+            <h3 style="font-family: var(--font-heading); font-size: 20px; font-weight: 800; color: var(--primary); margin-bottom: 10px;">La Solution RGE : La Technique du Sarking</h3>
+            
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              Le <strong>sarking</strong> est un procédé d'isolation thermique continue par l'extérieur. Au lieu d'isoler entre les chevrons par l'intérieur, les plaques d'isolant (comme la fibre de bois ou le polyuréthane) sont posées directement sur la charpente, sous les tuiles de couverture.
+            </p>
+
+            <h4 style="font-family: var(--font-heading); font-size: 16.5px; font-weight: 750; color: var(--primary); margin-top: 15px; margin-bottom: 8px;">1. Préservation de la charpente apparente</h4>
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              En isolant par le dessus, vous conservez tout le volume habitable sous les toits ainsi que la charpente d'origine visible (poutres, pannes et chevrons anciens), élément clé du cachet d'un mas provencal.
+            </p>
+            
+            <h4 style="font-family: var(--font-heading); font-size: 16.5px; font-weight: 750; color: var(--primary); margin-bottom: 8px;">2. Confort d'été optimal grâce au déphasage thermique</h4>
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              Pour lutter contre la canicule dans le Vaucluse, il est recommandé d'utiliser des isolants à fort déphasage, comme la <strong>fibre de bois dense</strong>. Ce matériau met plus de 10 à 12 heures à transmettre la chaleur extérieure à l'intérieur, permettant de maintenir l'habitation fraîche durant la journée.
+            </p>
+
+            <h4 style="font-family: var(--font-heading); font-size: 16.5px; font-weight: 750; color: var(--primary); margin-bottom: 8px;">3. Intégration esthétique des tuiles de récupération</h4>
+            <p style="color: var(--text-muted); margin-bottom: 15px;">
+              Pour un rendu parfait approuvé par les ABF, le couvreur utilisera des tuiles canal anciennes dites "de récupération" ou "patinées" pour le rang supérieur (tuiles de chapeau). Sous ces tuiles, des plaques sous-tuile (type PST) ou des tuiles canal modernes peuvent servir de support étanche (tuiles de courant). Le scellement traditionnel des rives et du faîtage au mortier de chaux grasse confère la touche finale authentique.
+            </p>
+          </div>
+
+          <div style="background: white; border: 1.5px solid var(--border-color); border-radius: var(--radius-md); padding: 30px; box-shadow: var(--shadow-sm);">
+            <h3 style="font-family: var(--font-heading); font-size: 18px; font-weight: 700; color: var(--primary); margin-bottom: 15px; text-align: center;">🏛️ Restauration des Génoises Provençales</h3>
+            <p style="color: var(--text-muted); line-height: 1.6; margin: 0;">
+              Les génoises (frises de tuiles maçonnées en encorbellement sous l'égout du toit) ont un double rôle : éloigner les eaux de pluie des murs en pierre et témoigner du statut social de l'époque (2, 3 ou 4 rangs de tuiles). Lors de la rénovation, l'artisan couvreur doit reprendre et réparer minutieusement ces ouvrages au mortier de chaux naturelle pour préserver la ventilation sous-toiture et empêcher les oiseaux ou rongeurs de pénétrer dans le bâti.
+            </p>
+          </div>
+        </div>
+
+        <!-- Right: Form -->
+        <div>
+          <StepsForm />
+        </div>
+      </div>
+    </div>
+  </section>
+</Layout>
