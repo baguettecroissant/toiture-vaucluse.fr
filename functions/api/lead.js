@@ -7,7 +7,7 @@
  */
 
 // ── Site-specific config (change per R&R site) ──
-const SITE_DOMAIN = 'toiture-vaucluse.fr';
+const SITE_DOMAIN = 'toiture-du-vaucluse.fr';
 const SITE_NICHE = 'toiture';
 const DEPT_CODE = '84';
 const CP_PATTERN = /^84\d{3}$/;

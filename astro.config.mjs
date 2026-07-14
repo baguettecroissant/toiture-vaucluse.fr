@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://toiture-vaucluse.fr',
+  site: 'https://toiture-du-vaucluse.fr',
   output: 'static',
   adapter: cloudflare({
     imageService: 'passthrough'
